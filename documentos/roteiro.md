@@ -117,8 +117,6 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
   
   <head>
       <title> Um exemplo de como funciona o HTML </title>
-      
-                
   </head>
   
   <body>
@@ -130,12 +128,18 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
     
     <a href="https://pt.wikipedia.org/wiki/HTML5"> O que é HTML5? </a>
     <img alt="W3C" src="screenshots/w3c.png" />
-    
-       
-    
+      
   </body>
 
 </hmtl>
+
+```
+
+![editores-navegadores](https://user-images.githubusercontent.com/81576640/220663003-ed80f0b4-833c-40b9-9dd6-23f48e5244f6.png)
+
+#### Páginas são diferentes de Sites
+
+![pagina-site](https://user-images.githubusercontent.com/81576640/220662983-24b3672f-64dd-4140-ad56-800b2a02fadf.png)
 
 
 
