@@ -89,5 +89,8 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 <img width="600" alt="HTML com padrão" src="https://user-images.githubusercontent.com/81576640/220633087-663f4897-2c0c-43f8-9bba-8ee2bff8f395.png">
 
+<img width="600" alt="Trindade" src="https://user-images.githubusercontent.com/81576640/220636291-720bf81a-b4c8-42b3-8b94-b90a4810faf3.png">
+
+
 
 
