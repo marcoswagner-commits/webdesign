@@ -32,6 +32,7 @@ Desde então, a difusão da rede foi enorme. Hoje, a internet tem mais de 250 mi
 Quase 90% dos usuários de internet estão nos países industrializados. Os EUA e o Canadá respondem por 57% do total, segundo relatório da Organização Internacional do Trabalho.
 
 ### Nascimento da World Wide Web
+---
 
 Em 1989, Tim Berners-Lee (Timothy John Berners-Lee é um físico britânico, cientista da computação e professor do MIT) desenvolveu a World Wide Web para facilitar o trabalho colaborativo.
 
@@ -42,6 +43,7 @@ O sistema se tornou tão popular que, em 1991, foi aberto ao público externo. I
 [Um artigo que fala um pouco mais sobre a história da internet](https://rockcontent.com/br/blog/historia-da-internet/)
 
 ### O conceito de HiperTexto
+---
 
 O termo hipertexto foi criado por Theodore Nelson, na década de 1960, para denominar a forma de escrita e de leitura não linear na informática. O hipertexto se assemelha à forma como o cérebro humano processa o conhecimento: fazendo relações, acessando informações diversas, construindo ligações entre fatos, imagens, sons, enfim, produzindo uma teia de conhecimentos.
 No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode seguir caminhos variados dentro do texto, selecionando pontos que o levam a outros textos ou outras mídias para complementar o sentido de sua leitura. O leitor torna-se, assim, um coautor do texto, pois constrói tramas paralelas de acordo com seu interesse.
@@ -53,6 +55,7 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 
 ### O conceito de Cliente-Servidor
+---
 
 <img width="274" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628445-79541113-0bc4-4728-953e-0563a7038f5b.png">
 
@@ -62,10 +65,12 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 
 ### Um exemplo com WIKIPEDIA
+---
 
 [Página WEB sobre HTML](https://pt.wikipedia.org/wiki/HTML5)
 
 ### O início dos navegadores
+---
 
 ![navegadores](https://user-images.githubusercontent.com/81576640/220632665-7523be96-6b91-4692-8918-c45e680d2f5a.png)
 
@@ -75,6 +80,7 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 
 ### Busca por padrões
+---
 
 ![html-padrao](https://user-images.githubusercontent.com/81576640/220633087-663f4897-2c0c-43f8-9bba-8ee2bff8f395.png)
 ![sem-padrao](https://user-images.githubusercontent.com/81576640/220633091-842197d6-8ccf-4a2a-adc6-7f2f5245c88c.png)
