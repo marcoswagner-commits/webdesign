@@ -59,6 +59,8 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 <img width="500" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628445-79541113-0bc4-4728-953e-0563a7038f5b.png">
 
+<img width="500" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628497-434fd8b9-b36d-4190-8a56-35094e386965.jpg">
+
 ![Cliente_e_Servidor_HTTP](img width="500" https://user-images.githubusercontent.com/81576640/220628497-434fd8b9-b36d-4190-8a56-35094e386965.jpg)
 
 ![url-https-html](https://user-images.githubusercontent.com/81576640/220629584-b1331c18-20a0-4d1e-86a7-482253938998.png)
