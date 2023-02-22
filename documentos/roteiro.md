@@ -92,7 +92,6 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 <img width="600" alt="Trindade" src="https://user-images.githubusercontent.com/81576640/220636291-720bf81a-b4c8-42b3-8b94-b90a4810faf3.png">
 
 #### HTML
-Conteúdo
 
 ![arquivos-html](https://user-images.githubusercontent.com/81576640/220640103-4765ba0f-4e3e-410a-9579-85fb85f83abd.png)
 
@@ -104,7 +103,10 @@ Conteúdo
 
 ##### Editores HTML
 - NotePad++ : Conhecido por seu design leve, o Notepad++ é um editor de texto e código para Windows. Esta é frequentemente a primeira ferramenta com que um desenvolvedor vai trabalhar, pois é muito simples e não é difícil de aprender, mas vem com muitos recursos para facilitar sua vida. (https://notepad-plus-plus.org)
-
+- VSCode: Como um dos editores de código mais populares, se não o mais popular, o Visual Studio Code é ideal para muitos desenvolvedores, apesar de seu lançamento relativamente recente em 2015. É extremamente robusto e personalizável, com uma interface que você pode personalizar a seu gosto, e extensões para adicionar ainda mais recursos. (https://code.visualstudio.com/)
+- Brackets: Gosta do design leve do Notepad++ mas quer um programa direcionado especificamente para o desenvolvimento web? O Brackets é a solução perfeita. Ele funciona em Windows, Mac e Linux, e vem com a quantidade certa de recursos para proporcionar uma ótima experiência sem dificultar. (http://brackets.io/)
+- Sublime Text: Elegante e sofisticado, o Sublime Text é um editor de código e texto para Windows, Linux e Mac. Vem com 23 temas incorporados e personalização total da interface, com suporte para várias linguagens de marcação e programação. (http://www.sublimetext.com/)
+- Atom: Desenvolvido pelo GitHub, o maior centro da comunidade de desenvolvimento web e de software na internet, o Atom foi criado para a colaboração. Ele vem com suporte integrado Git/Github para controle de versão e, pricipalmente, suporta colaboração de código em tempo real. Chega de enviar arquivos para lá e para cá. Trabalhe em conjunto num projeto unificado. (https://atom.io/)
 
 [Artigo sobre Editores de HTML ](https://kinsta.com/pt/blog/editores-html-gratuitos/)
 
