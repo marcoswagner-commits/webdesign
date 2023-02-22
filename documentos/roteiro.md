@@ -146,14 +146,15 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ---
 
 
-- Wix (https://www.tooltester.com/fora/wix) – O melhor criador de site para pequenos negócios
-- Webnode – Acessível e bom para sites multilingues
-- Criador de Sites Hostinger (Zyro) – Uma boa alternativa ao Wix
-- GoDaddy  – Ótimas ferramentas de marketing digital
-- Squarespace – O melhor para blogueiros e criativos
-- WordPress.com – Meio complexo, mas poderoso
-- Weebly – Bom e bem intuitivo, mas um tanto desatualizado
-- Site123 – Multilingue e básico
--  One.com – Pode ser barato, mas pode sair caro
+- [Wix](https://www.tooltester.com/fora/wix) – O melhor criador de site para pequenos negócios
+- [Webnode](https://www.tooltester.com/fora/webnode) – Acessível e bom para sites multilingues
+- [Criador de Sites Hostinger (Zyro)](https://www.tooltester.com/fora/zyro) – Uma boa alternativa ao Wix
+- [GoDaddy](https://www.tooltester.com/fora/godaddy-cta)  – Ótimas ferramentas de marketing digital
+- [Squarespace](https://www.tooltester.com/fora/squarespace) – O melhor para blogueiros e criativos
+- [WordPress.com](https://www.tooltester.com/fora/wordpress-com) – Meio complexo, mas poderoso
+- [Weebly](https://www.tooltester.com/fora/weebly-cta) – Bom e bem intuitivo, mas um tanto desatualizado
+- [Site123](https://www.tooltester.com/fora/site123) – Multilingue e básico
+- [One.com](https://www.tooltester.com/fora/one-com-cta) – Pode ser barato, mas pode sair caro
+-  
   
 
