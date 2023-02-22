@@ -8,9 +8,18 @@
 
 ### Passos do Roteiro: HTML
 - [x] Exemplo com um editor de textos (Bloco de Notas (Windows) - Editor de Textos (Mac))
- - Movimento (Transformação Geométrica - Position)
- - Movimento por meio da "Física"
-  - Analisando o componente Rigidbody (massa - arrasto - gravidade - colisão)
+- [x] Criar um arquivo (primeiro) com a extensão ".html"
+- [x] Criar duas frases - sem o uso de formatações ou tags
+ - Ver o resulta do arquivo em um navegador
+- [x] Inserir as tags <br> (conceiturar tags do tipo conteiner)
+- [x] Inserir as tags <h1> e <h2>
+- [x] Inserir as tags <p> 
+- [x] Migrando do Editor de Textos/Notepad para o Blackets
+ - Explicitando as funcionalidades do Blackets
+- [x] Migrando do Blackets para o VSCode
+ - Explicitando as funcionalidades do VSCode
+ - Instalação de extensões (Live Preview - HTML CSS Support - HTML Boiler Plate)
+  
 
 
 🎬
@@ -22,6 +31,15 @@
  <br>
  <br>
  Prof. Marcos Wagner
+ 
+ =======//////////////
+
+ <h1>Curso de Web Design</h1>
+ 
+ <h2>Prof. Marcos Wagner</h2>
+ 
+ <p>Introdução aos conceitos e métodos para criação páginas para Internet</p>
+
  
 
  ```
