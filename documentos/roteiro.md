@@ -110,3 +110,35 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 [Artigo sobre Editores de HTML ](https://kinsta.com/pt/blog/editores-html-gratuitos/)
 
+##### Um pequeno exemplo com o Brackets (sem estilos)
+
+```
+<hmtl>
+  
+  <head>
+      <title> Um exemplo de como funciona o HTML </title>
+      
+                
+  </head>
+  
+  <body>
+    <h1> Como funciona um arquivo html </h1>
+    <h2> Alguns dos principais comandos (tags) usadas! </h2>
+    
+    <p> HTML5 (Hypertext Markup Language, versão 5) é uma linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet, originalmente     proposto por Opera Software. É a quinta versão da linguagem HTML. Esta nova versão traz consigo importantes mudanças quanto ao papel do HTML no mundo da Web, através de novas funcionalidades como semântica e acessibilidade. Possibilita o uso de novos recursos antes possíveis apenas com a aplicação de outras tecnologias. Sua essência tem sido melhorar a linguagem com o suporte para as mais recentes multimídias, enquanto a mantém facilmente legível por seres humanos e consistentemente compreendida por computadores e outros dispositivos (navegadores, parsers etc).
+    </p>
+    
+    <a href="https://pt.wikipedia.org/wiki/HTML5"> O que é HTML5? </a>
+    <img alt="W3C" src="screenshots/w3c.png" />
+    
+       
+    
+  </body>
+
+</hmtl>
+
+
+
+
+  
+
