@@ -95,9 +95,15 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 Conteúdo
 
 ![arquivos-html](https://user-images.githubusercontent.com/81576640/220640103-4765ba0f-4e3e-410a-9579-85fb85f83abd.png)
-![editor-codigo](https://user-images.githubusercontent.com/81576640/220640128-7fd93cee-f18e-459f-9c89-1438e045e744.png)
-![html-marcacoes-erro](https://user-images.githubusercontent.com/81576640/220640135-eda596bf-cd38-4d85-9085-6ab43bb4e77a.png)
 
+
+![html-marcacoes-erro](https://user-images.githubusercontent.com/81576640/220640904-376e0142-9713-48d2-8921-08e947916356.png)
+
+
+![editor-codigo](https://user-images.githubusercontent.com/81576640/220640128-7fd93cee-f18e-459f-9c89-1438e045e744.png)
+
+##### Editores HTML
+- NotePad++ : Conhecido por seu design leve, o Notepad++ é um editor de texto e código para Windows. Esta é frequentemente a primeira ferramenta com que um desenvolvedor vai trabalhar, pois é muito simples e não é difícil de aprender, mas vem com muitos recursos para facilitar sua vida. (https://notepad-plus-plus.org)
 
 
 [Artigo sobre Editores de HTML ](https://kinsta.com/pt/blog/editores-html-gratuitos/)
