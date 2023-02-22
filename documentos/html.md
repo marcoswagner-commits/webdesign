@@ -11,9 +11,9 @@
 - [x] Criar um arquivo (primeiro) com a extensão ".html"
 - [x] Criar duas frases - sem o uso de formatações ou tags
  - Ver o resulta do arquivo em um navegador
-- [x] Inserir as tags "<br>" (conceiturar tags do tipo conteiner)
-- [x] Inserir as tags "<h1> e <h2>"
-- [x] Inserir as tags "<p>" 
+- [x] Inserir as tags "br" (conceiturar tags do tipo conteiner)
+- [x] Inserir as tags "h1 e h2"
+- [x] Inserir as tags "p" 
 - [x] Migrando do Editor de Textos/Notepad para o Blackets
  - Explicitando as funcionalidades do Blackets
 - [x] Migrando do Blackets para o VSCode
