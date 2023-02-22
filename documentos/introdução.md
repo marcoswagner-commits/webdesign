@@ -1,8 +1,12 @@
 ![webdesigner](https://user-images.githubusercontent.com/81576640/220621669-df2f00d1-7b0e-4863-98ab-941083c2caa9.png)
 
-# Para iniciar....
+## Módulo 1 - Introdução
 ---
 
+> Atividades da aula - conceitos, definições e histórico
+
+### Para iniciar....
+---
 ### - Web Design - a função (Engenharia)  -  WebDesigner - o ofício (Engenheiro)
 
 ## Um pouco de história
