@@ -142,7 +142,18 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ![pagina-site](https://user-images.githubusercontent.com/81576640/220662983-24b3672f-64dd-4140-ad56-800b2a02fadf.png)
 
 
+### Plataformas de criação de Sites
+---
 
 
+- Wix (https://www.tooltester.com/fora/wix) – O melhor criador de site para pequenos negócios
+- Webnode – Acessível e bom para sites multilingues
+- Criador de Sites Hostinger (Zyro) – Uma boa alternativa ao Wix
+- GoDaddy  – Ótimas ferramentas de marketing digital
+- Squarespace – O melhor para blogueiros e criativos
+- WordPress.com – Meio complexo, mas poderoso
+- Weebly – Bom e bem intuitivo, mas um tanto desatualizado
+- Site123 – Multilingue e básico
+-  One.com – Pode ser barato, mas pode sair caro
   
 
