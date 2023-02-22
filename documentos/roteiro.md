@@ -30,6 +30,14 @@ Desde então, a difusão da rede foi enorme. Hoje, a internet tem mais de 250 mi
 
 Quase 90% dos usuários de internet estão nos países industrializados. Os EUA e o Canadá respondem por 57% do total, segundo relatório da Organização Internacional do Trabalho.
 
+### Nascimento da World Wide Web
+
+Em 1989, Tim Berners-Lee (Timothy John Berners-Lee KBE, OM, FRS (TimBL ou TBL) (Londres, 8 de junho de 1955[1]) é um físico britânico, cientista da computação e professor do MIT) desenvolveu a World Wide Webpara facilitar o trabalho colaborativo no CERN.
+
+Basicamente, a WWW funciona como um sistema de distribuição de documentos de hipertexto (HTTP) interconectados e acessíveis por meio de um navegador web conectado à Internet.
+
+O sistema se tornou tão popular no CERN que, em 1991, foi aberto ao público externo. Isso foi possível graças à criação do navegador Mosaic em 1993. De fato, sua recepção foi tão rápida que em 1997 havia mais de 200 mil sites.
+
 [Um artigo que fala um pouco mais sobre a história da internet](https://rockcontent.com/br/blog/historia-da-internet/)
 
 
