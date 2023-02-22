@@ -73,19 +73,21 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ### O início dos navegadores
 ---
 
-![navegadores](https://user-images.githubusercontent.com/81576640/220632665-7523be96-6b91-4692-8918-c45e680d2f5a.png)
+<img width="600" alt="navegadores" src="https://user-images.githubusercontent.com/81576640/220632665-7523be96-6b91-4692-8918-c45e680d2f5a.png">
 
-![paginas_antigas](https://user-images.githubusercontent.com/81576640/220632685-9ef97af8-7762-424b-bb9b-52c8e7e725c9.png)
+<img width="600" alt="páginas antigas" src="https://user-images.githubusercontent.com/81576640/220632685-9ef97af8-7762-424b-bb9b-52c8e7e725c9.png">
 
-![navegadores-dif](https://user-images.githubusercontent.com/81576640/220632983-963d978a-e435-4dec-887a-3a53a855a673.png)
+<img width="600" alt="diferenças navegadores" src="https://user-images.githubusercontent.com/81576640/220632983-963d978a-e435-4dec-887a-3a53a855a673.png">
 
 
 ### Busca por padrões
 ---
 
-![html-padrao](https://user-images.githubusercontent.com/81576640/220633087-663f4897-2c0c-43f8-9bba-8ee2bff8f395.png)
-![sem-padrao](https://user-images.githubusercontent.com/81576640/220633091-842197d6-8ccf-4a2a-adc6-7f2f5245c88c.png)
-![w3c](https://user-images.githubusercontent.com/81576640/220633095-dd1b213f-2597-444d-93fa-4d58caa8ea2f.png)
+<img width="600" alt="HTML sem padrão" src="https://user-images.githubusercontent.com/81576640/220633091-842197d6-8ccf-4a2a-adc6-7f2f5245c88c.png">
+
+<img width="600" alt="W3C" src="https://user-images.githubusercontent.com/81576640/220633095-dd1b213f-2597-444d-93fa-4d58caa8ea2f.png">
+
+<img width="600" alt="HTML com padrão" src="https://user-images.githubusercontent.com/81576640/220633087-663f4897-2c0c-43f8-9bba-8ee2bff8f395.png">
 
 
 
