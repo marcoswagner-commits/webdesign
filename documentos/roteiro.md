@@ -48,8 +48,8 @@ O sistema se tornou tão popular que, em 1991, foi aberto ao público externo. I
 O termo hipertexto foi criado por Theodore Nelson, na década de 1960, para denominar a forma de escrita e de leitura não linear na informática. O hipertexto se assemelha à forma como o cérebro humano processa o conhecimento: fazendo relações, acessando informações diversas, construindo ligações entre fatos, imagens, sons, enfim, produzindo uma teia de conhecimentos.
 No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode seguir caminhos variados dentro do texto, selecionando pontos que o levam a outros textos ou outras mídias para complementar o sentido de sua leitura. O leitor torna-se, assim, um coautor do texto, pois constrói tramas paralelas de acordo com seu interesse.
 
-![hipertexto](https://user-images.githubusercontent.com/81576640/220626715-7e61f9f7-05a8-4077-a242-21a8de86193e.jpg)
 
+<img width="600" alt="hipertexto" src="https://user-images.githubusercontent.com/81576640/220626715-7e61f9f7-05a8-4077-a242-21a8de86193e.jpg">
 
 [Um artigo que fala um pouco mais sobre Hipertexto](http://educacao.globo.com/portugues/assunto/estudo-do-texto/hipertexto.html)
 
@@ -57,13 +57,12 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ### O conceito de Cliente-Servidor
 ---
 
-<img width="500" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628445-79541113-0bc4-4728-953e-0563a7038f5b.png">
+<img width="600" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628445-79541113-0bc4-4728-953e-0563a7038f5b.png">
 
-<img width="500" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628497-434fd8b9-b36d-4190-8a56-35094e386965.jpg">
+<img width="600" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628497-434fd8b9-b36d-4190-8a56-35094e386965.jpg">
 
-![Cliente_e_Servidor_HTTP](img width="500" https://user-images.githubusercontent.com/81576640/220628497-434fd8b9-b36d-4190-8a56-35094e386965.jpg)
+<img width="600" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220629584-b1331c18-20a0-4d1e-86a7-482253938998.png">
 
-![url-https-html](https://user-images.githubusercontent.com/81576640/220629584-b1331c18-20a0-4d1e-86a7-482253938998.png)
 
 
 ### Um exemplo com WIKIPEDIA
