@@ -74,9 +74,9 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ---
 
 <img width="600" alt="navegadores" src="https://user-images.githubusercontent.com/81576640/220632665-7523be96-6b91-4692-8918-c45e680d2f5a.png">
-``-``
+#
 <img width="600" alt="páginas antigas" src="https://user-images.githubusercontent.com/81576640/220632685-9ef97af8-7762-424b-bb9b-52c8e7e725c9.png">
-``-``
+#
 <img width="600" alt="diferenças navegadores" src="https://user-images.githubusercontent.com/81576640/220632983-963d978a-e435-4dec-887a-3a53a855a673.png">
 
 
