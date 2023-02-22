@@ -30,5 +30,6 @@ Desde então, a difusão da rede foi enorme. Hoje, a internet tem mais de 250 mi
 
 Quase 90% dos usuários de internet estão nos países industrializados. Os EUA e o Canadá respondem por 57% do total, segundo relatório da Organização Internacional do Trabalho.
 
+![Um artigo que fala um pouco mais sobre a história da internet](https://rockcontent.com/br/blog/historia-da-internet/)
 
 
