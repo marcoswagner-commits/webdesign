@@ -155,6 +155,11 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 - [Weebly](https://www.tooltester.com/fora/weebly-cta) – Bom e bem intuitivo, mas um tanto desatualizado
 - [Site123](https://www.tooltester.com/fora/site123) – Multilingue e básico
 - [One.com](https://www.tooltester.com/fora/one-com-cta) – Pode ser barato, mas pode sair caro
--  
+
+### Plataformas de criação de Sites (outro nível - com custos em $)
+---
+
+- [Figma](https://www.figma.com) - Figma é uma ferramenta de criação e prototipagem de IU baseada na nuvem, que permite que várias equipes colaborem na criação, teste e implantação de interface ou designs de produtos. Os recursos incluem histórico de versões, gestão de projetos, comentários, permissões baseadas em usuário, criação de plug-ins e logon único (SSO, na sigla em inglês). 
+- [WebFlow](https://webflow.com) - Webflow é uma plataforma de desenvolvimento visual da internet que permite às empresas projetar, criar e lançar sites totalmente personalizados sem escrever código.
   
 
