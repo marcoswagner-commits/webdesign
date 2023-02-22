@@ -1,6 +1,7 @@
 # Curso de WebDesign - Universidade Federal de Jataí
 
-# Prof. Marcos Wagner - 
+# Prof. Marcos Wagner
 
-- [Roteiro](https://github.com/marcoswagner-commits/webdesign/tree/documentos/README.md)
+- [Roteiro](documentos/roteiro.md)
+
 - [Conteúdo do Curso]
