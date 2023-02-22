@@ -18,7 +18,7 @@
  - Explicitando as funcionalidades do Blackets
 - [x] Migrando do Blackets para o VSCode
  - Explicitando as funcionalidades do VSCode
- - Instalação de extensões (Live Preview - HTML CSS Support - HTML Boiler Plate)
+ - Instalação de extensões (Live Server - HTML CSS Support - HTML Boiler Plate)
   
 
 
