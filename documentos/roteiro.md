@@ -57,7 +57,8 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 ![Cliente_e_Servidor_HTTP](https://user-images.githubusercontent.com/81576640/220628497-434fd8b9-b36d-4190-8a56-35094e386965.jpg)
 
-![url-http-html](https://user-images.githubusercontent.com/81576640/220628583-d80bc5f9-78fa-4b6e-b914-e92e0cea9df2.png)
+![url-https-html](https://user-images.githubusercontent.com/81576640/220629584-b1331c18-20a0-4d1e-86a7-482253938998.png)
+
 
 ### Um exemplo com WIKIPEDIA
 
