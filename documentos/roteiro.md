@@ -91,6 +91,14 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 <img width="600" alt="Trindade" src="https://user-images.githubusercontent.com/81576640/220636291-720bf81a-b4c8-42b3-8b94-b90a4810faf3.png">
 
+#### HTML
+Conteúdo
+
+![arquivos-html](https://user-images.githubusercontent.com/81576640/220640103-4765ba0f-4e3e-410a-9579-85fb85f83abd.png)
+![editor-codigo](https://user-images.githubusercontent.com/81576640/220640128-7fd93cee-f18e-459f-9c89-1438e045e744.png)
+![html-marcacoes-erro](https://user-images.githubusercontent.com/81576640/220640135-eda596bf-cd38-4d85-9085-6ab43bb4e77a.png)
 
 
+
+[Artigo sobre Editores de HTML ](https://kinsta.com/pt/blog/editores-html-gratuitos/)
 
