@@ -40,4 +40,16 @@ O sistema se tornou tão popular que, em 1991, foi aberto ao público externo. I
 
 [Um artigo que fala um pouco mais sobre a história da internet](https://rockcontent.com/br/blog/historia-da-internet/)
 
+### O conceito de HiperTexto
+
+O termo hipertexto foi criado por Theodore Nelson, na década de 1960, para denominar a forma de escrita e de leitura não linear na informática. O hipertexto se assemelha à forma como o cérebro humano processa o conhecimento: fazendo relações, acessando informações diversas, construindo ligações entre fatos, imagens, sons, enfim, produzindo uma teia de conhecimentos.
+No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode seguir caminhos variados dentro do texto, selecionando pontos que o levam a outros textos ou outras mídias para complementar o sentido de sua leitura. O leitor torna-se, assim, um coautor do texto, pois constrói tramas paralelas de acordo com seu interesse.
+
+![hipertexto](https://user-images.githubusercontent.com/81576640/220626715-7e61f9f7-05a8-4077-a242-21a8de86193e.jpg)
+
+
+[Um artigo que fala um pouco mais sobre Hipertexto](http://educacao.globo.com/portugues/assunto/estudo-do-texto/hipertexto.html)
+
+
+### O conceito de Cliente-Servidor
 
