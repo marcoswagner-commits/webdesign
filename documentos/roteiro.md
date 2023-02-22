@@ -6,6 +6,7 @@
 
 - [Introdução](introdução.md)
 - [HTML](html.md)
+- [CSS](css.md)
 
 - [Conteúdo do Curso]
   
