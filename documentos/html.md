@@ -23,7 +23,7 @@
 
 ### Passos do Roteiro: HTML Principais Tags
 - [x] Funcionamento das Tags
-
+ - Por que as tags dão significado ao conteúdo?
 - [x] Criar um arquivo (primeiro) com a extensão ".html"
 - [x] Criar duas frases - sem o uso de formatações ou tags
  - Ver o resulta do arquivo em um navegador
@@ -36,7 +36,7 @@
  - Explicitando as funcionalidades do VSCode
  - Instalação de extensões (Live Server - HTML CSS Support - HTML Boiler Plate)
   
-
+[Apresentação](https://www.canva.com/design/DAFbbQpdbS4/Ifuk55Rz4BaIlYGOvUbRxw/view#1)
 
 
 🎬
