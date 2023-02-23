@@ -35,11 +35,16 @@
 - [x] Na prática
 ----
   
-[Apresentação](https://www.canva.com/design/DAFbbQpdbS4/Ifuk55Rz4BaIlYGOvUbRxw/view#1)
+[Apresentação dos tópicos relacionados ](https://www.canva.com/design/DAFbbQpdbS4/Ifuk55Rz4BaIlYGOvUbRxw/view#1)
+----
 
+
+#### Vídeos
 
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=i_1jef-1pgQ)
+[![material complementar](https://user-images.githubusercontent.com/81576640/221052052-f48f3eae-42c1-4fe9-a6ef-741d45c523d3.png)](https://www.youtube.com)
+ 
+ 
  
 #### Códigos
  ```
