@@ -32,7 +32,7 @@
 - [x] Links
 - [x] Atributos
 - [x] Links com atributos
-- [x] Na prática
+- [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
 ----
   
 [Apresentação dos tópicos relacionados ](https://www.canva.com/design/DAFbbQpdbS4/Ifuk55Rz4BaIlYGOvUbRxw/view#1)
