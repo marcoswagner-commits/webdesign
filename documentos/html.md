@@ -20,6 +20,22 @@
  - Explicitando as funcionalidades do VSCode
  - Instalação de extensões (Live Server - HTML CSS Support - HTML Boiler Plate)
   
+#### Código básico
+ ```
+  Curso de Web Design
+  <br>
+  <br>
+  Prof. Marcos Wagner
+ 
+ =======//////////////
+
+  <h1>Curso de Web Design</h1>
+ 
+  <h2>Prof. Marcos Wagner</h2>
+ 
+  <p>Introdução aos conceitos e métodos para criação páginas para Internet</p>
+
+ ```
 
 ### Passos do Roteiro: HTML Principais Tags
 - [x] Funcionamento das Tags
@@ -39,6 +55,15 @@
 ----
 
 
+### Passos do Roteiro: Estrutura Semântica 
+- [x] Tag html
+- [x] Tag head
+ - Tag title, metatags, links... 
+- [x] Tag body
+- [x] Declaração "!Doctype HTML"
+- [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
+----
+
 #### Vídeos
 
 🎬
@@ -46,24 +71,7 @@
  
  
  
-#### Códigos
- ```
- Curso de Web Design
- <br>
- <br>
- Prof. Marcos Wagner
- 
- =======//////////////
 
- <h1>Curso de Web Design</h1>
- 
- <h2>Prof. Marcos Wagner</h2>
- 
- <p>Introdução aos conceitos e métodos para criação páginas para Internet</p>
-
- 
-
- ```
 
 
 
