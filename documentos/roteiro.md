@@ -7,6 +7,8 @@
 - [Introdução](introdução.md)
 - [HTML](html.md)
 - [CSS](css.md)
+- [Java Script]()
+- [Projetos]()
 
 - [Conteúdo do Curso]
   
