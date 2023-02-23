@@ -24,17 +24,16 @@
 ### Passos do Roteiro: HTML Principais Tags
 - [x] Funcionamento das Tags
  - Por que as tags dão significado ao conteúdo?
-- [x] Criar um arquivo (primeiro) com a extensão ".html"
-- [x] Criar duas frases - sem o uso de formatações ou tags
- - Ver o resulta do arquivo em um navegador
-- [x] Inserir as tags "br" (conceiturar tags do tipo conteiner)
-- [x] Inserir as tags "h1 e h2"
-- [x] Inserir as tags "p" 
-- [x] Migrando do Editor de Textos/Notepad para o Blackets
- - Explicitando as funcionalidades do Blackets
-- [x] Migrando do Blackets para o VSCode
- - Explicitando as funcionalidades do VSCode
- - Instalação de extensões (Live Server - HTML CSS Support - HTML Boiler Plate)
+- [x] Tags aninhadas
+- [x] Tags h1 a h6
+- [x] Tags similares (mesmo efeito)
+- [x] Listas não ordenadas
+- [x] Listas ordenadas
+- [x] Links
+- [x] Atributos
+- [x] Links com atributos
+- [x] Na prática
+----
   
 [Apresentação](https://www.canva.com/design/DAFbbQpdbS4/Ifuk55Rz4BaIlYGOvUbRxw/view#1)
 
