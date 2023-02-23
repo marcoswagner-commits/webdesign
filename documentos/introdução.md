@@ -63,9 +63,9 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ---
 
 <img width="600" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628445-79541113-0bc4-4728-953e-0563a7038f5b.png">
-
+---
 <img width="600" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220628497-434fd8b9-b36d-4190-8a56-35094e386965.jpg">
-
+---
 <img width="600" alt="cliente-servidor" src="https://user-images.githubusercontent.com/81576640/220629584-b1331c18-20a0-4d1e-86a7-482253938998.png">
 
 
@@ -79,9 +79,9 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ---
 
 <img width="600" alt="navegadores" src="https://user-images.githubusercontent.com/81576640/220632665-7523be96-6b91-4692-8918-c45e680d2f5a.png">
-#
+---
 <img width="600" alt="páginas antigas" src="https://user-images.githubusercontent.com/81576640/220632685-9ef97af8-7762-424b-bb9b-52c8e7e725c9.png">
-#
+---
 <img width="600" alt="diferenças navegadores" src="https://user-images.githubusercontent.com/81576640/220632983-963d978a-e435-4dec-887a-3a53a855a673.png">
 
 
@@ -89,22 +89,22 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ---
 
 <img width="600" alt="HTML sem padrão" src="https://user-images.githubusercontent.com/81576640/220633091-842197d6-8ccf-4a2a-adc6-7f2f5245c88c.png">
-
+---
 <img width="600" alt="W3C" src="https://user-images.githubusercontent.com/81576640/220633095-dd1b213f-2597-444d-93fa-4d58caa8ea2f.png">
-
+---
 <img width="600" alt="HTML com padrão" src="https://user-images.githubusercontent.com/81576640/220633087-663f4897-2c0c-43f8-9bba-8ee2bff8f395.png">
-
+---
 <img width="600" alt="Trindade" src="https://user-images.githubusercontent.com/81576640/220636291-720bf81a-b4c8-42b3-8b94-b90a4810faf3.png">
 
 #### HTML
 
-![arquivos-html](https://user-images.githubusercontent.com/81576640/220640103-4765ba0f-4e3e-410a-9579-85fb85f83abd.png)
 
+<img width="600" alt="Arquivos HTML" src="https://user-images.githubusercontent.com/81576640/220640103-4765ba0f-4e3e-410a-9579-85fb85f83abd.png">
+---
+<img width="600" alt="HTML marcações com erro" src="https://user-images.githubusercontent.com/81576640/220640904-376e0142-9713-48d2-8921-08e947916356.png">
+---
+<img width="600" alt="Editor de Código" src="https://user-images.githubusercontent.com/81576640/220640128-7fd93cee-f18e-459f-9c89-1438e045e744.png">
 
-![html-marcacoes-erro](https://user-images.githubusercontent.com/81576640/220640904-376e0142-9713-48d2-8921-08e947916356.png)
-
-
-![editor-codigo](https://user-images.githubusercontent.com/81576640/220640128-7fd93cee-f18e-459f-9c89-1438e045e744.png)
 
 ##### Editores HTML
 - NotePad++ : Conhecido por seu design leve, o Notepad++ é um editor de texto e código para Windows. Esta é frequentemente a primeira ferramenta com que um desenvolvedor vai trabalhar, pois é muito simples e não é difícil de aprender, mas vem com muitos recursos para facilitar sua vida. (https://notepad-plus-plus.org)
