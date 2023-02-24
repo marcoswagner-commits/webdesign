@@ -6,4 +6,5 @@
 
 - [Roteiro](documentos/roteiro.md)
 
-- [Conteúdo do Curso]
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/webdesign/files/10824374/Conteudo_Basico_v1.pdf)
+
