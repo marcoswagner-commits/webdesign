@@ -92,8 +92,6 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ---
 <img width="600" alt="W3C" src="https://user-images.githubusercontent.com/81576640/220633095-dd1b213f-2597-444d-93fa-4d58caa8ea2f.png">
 ---
-<img width="600" alt="HTML com padrão" src="https://user-images.githubusercontent.com/81576640/220633087-663f4897-2c0c-43f8-9bba-8ee2bff8f395.png">
----
 <img width="600" alt="Trindade" src="https://user-images.githubusercontent.com/81576640/220636291-720bf81a-b4c8-42b3-8b94-b90a4810faf3.png">
 
 #### HTML
@@ -140,11 +138,11 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 
 ```
 
-![editores-navegadores](https://user-images.githubusercontent.com/81576640/220663003-ed80f0b4-833c-40b9-9dd6-23f48e5244f6.png)
+<img width="600" alt="editores de html" src="https://user-images.githubusercontent.com/81576640/220663003-ed80f0b4-833c-40b9-9dd6-23f48e5244f6.png">
 
 #### Páginas são diferentes de Sites
 
-![pagina-site](https://user-images.githubusercontent.com/81576640/220662983-24b3672f-64dd-4140-ad56-800b2a02fadf.png)
+<img width="600" alt="página x site" src="https://user-images.githubusercontent.com/81576640/220662983-24b3672f-64dd-4140-ad56-800b2a02fadf.png">
 
 
 ### Plataformas de criação de Sites
