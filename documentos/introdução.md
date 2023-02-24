@@ -149,7 +149,7 @@ No hipertexto, o leitor passa a ter uma participação mais ativa, pois ele pode
 ---
 
 
-- [Wix](https://www.tooltester.com/fora/wix) – O melhor criador de site para pequenos negócios
+- [Wix](https://www.tooltester.com/fora/wix) – Criador de site para pequenos negócios
 - [Webnode](https://www.tooltester.com/fora/webnode) – Acessível e bom para sites multilingues
 - [Criador de Sites Hostinger (Zyro)](https://www.tooltester.com/fora/zyro) – Uma boa alternativa ao Wix
 - [GoDaddy](https://www.tooltester.com/fora/godaddy-cta)  – Ótimas ferramentas de marketing digital
