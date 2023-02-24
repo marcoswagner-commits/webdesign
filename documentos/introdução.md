@@ -14,7 +14,7 @@
 
 ### 1969
 
-* A internet foi criada em 1969, nos Estados Unidos. Chamada de Arpanet, tinha como função interligar laboratórios de pesquisa. Naquele ano, um professor da Universidade da Califórnia passou para um amigo em Stanford o primeiro e-mail da história.
+A internet foi criada em 1969, nos Estados Unidos. Chamada de Arpanet, tinha como função interligar laboratórios de pesquisa. Naquele ano, um professor da Universidade da Califórnia passou para um amigo em Stanford o primeiro e-mail da história.
 
 Essa rede pertencia ao Departamento de Defesa norte-americano. O mundo vivia o auge da Guerra Fria. A Arpanet era uma garantia de que a comunicação entre militares e cientistas persistiria, mesmo em caso de bombardeio. Eram pontos que funcionavam independentemente de um deles apresentar problemas.
 
