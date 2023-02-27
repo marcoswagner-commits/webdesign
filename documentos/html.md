@@ -10,7 +10,7 @@
 - [x] Exemplo com um editor de textos (Bloco de Notas (Windows) - Editor de Textos (Mac))
 - [x] Criar um arquivo (primeiro) com a extensão ".html"
 - [x] Criar duas frases - sem o uso de formatações ou tags
- - Ver o resulta do arquivo em um navegador
+ - Ver o resultado do arquivo em um navegador
 - [x] Inserir as tags "br" (conceiturar tags do tipo conteiner)
 - [x] Inserir as tags "h1 e h2"
 - [x] Inserir as tags "p" 
