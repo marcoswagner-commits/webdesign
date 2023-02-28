@@ -61,7 +61,11 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 </body>
 </html>
 ```
+<html>
+<body>
 Curso de Web Design - Este texto será exibido no corpo da página.
+</body>
+</html>
 
 ----
 ```
@@ -78,6 +82,7 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 <h4>Este é um título 4 - Capítulo 1.1.1.1</h4>
 <h5>Este é um título 5 - Capítulo 1.1.1.1.1</h5>
 <h6>Este é um título 6 - Capítulo 1.1.1.1.1</h6>
+
 
 ----
 
