@@ -86,7 +86,28 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 
 ----
 
+```
+<p>Este é um parágrafo</p>
+<p>Este é outro parágrafo</p>
+```
+<p>Este é um parágrafo</p>
+<p>Este é outro parágrafo</p>
 
+----
+
+```
+<p>Este <br> é um pará<br>grafo com quebras de linha</p>
+```
+<p>Este <br> é um pará<br>grafo com quebras de linha</p>
+
+----
+
+```
+<!-- Este é um comentário -->
+```
+<!-- Este é um comentário -->
+
+----
 
 
 ### Passos do Roteiro: Estrutura Semântica 
