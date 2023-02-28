@@ -109,6 +109,34 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 
 ----
 
+```
+<html>
+<body>
+<p>A tag hr define um filete horizontal:</p>
+<hr>
+<p>Este é um parágrafo</p>
+<hr>
+<p>Este é um parágrafo</p>
+<hr>
+<p>Este é um parágrafo</p>
+</body>
+</html>
+```
+<html>
+<body>
+<p>A tag hr define um filete horizontal:</p>
+<hr>
+<p>Este é um parágrafo</p>
+<hr>
+<p>Este é um parágrafo</p>
+<hr>
+<p>Este é um parágrafo</p>
+</body>
+</html>
+
+----
+
+
 
 ### Passos do Roteiro: Estrutura Semântica 
 - [x] Tag html
