@@ -7,15 +7,13 @@
 > Atividades da aula - construindo páginas com HTML
 
 ### Passos do Roteiro: HTML básico
-- [x] Exemplo com um editor de textos (Bloco de Notas (Windows) - Editor de Textos (Mac))
+- [x] Exemplo com o Editor de Páginas HTML (Brackets)
 - [x] Criar um arquivo (primeiro) com a extensão ".html"
 - [x] Criar duas frases - sem o uso de formatações ou tags
  - Ver o resultado do arquivo em um navegador
 - [x] Inserir as tags "br" (conceiturar tags do tipo conteiner)
 - [x] Inserir as tags "h1 e h2"
 - [x] Inserir as tags "p" 
-- [x] Migrando do Editor de Textos/Notepad para o Blackets
- - Explicitando as funcionalidades do Blackets
 - [x] Migrando do Blackets para o VSCode
  - Explicitando as funcionalidades do VSCode
  - Instalação de extensões (Live Server - HTML CSS Support - HTML Boiler Plate)
@@ -50,9 +48,15 @@
 - [x] Links com atributos
 - [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
 ----
-  
+    
 [Apresentação dos tópicos relacionados ](https://www.canva.com/design/DAFbbQpdbS4/Ifuk55Rz4BaIlYGOvUbRxw/view#1)
 ----
+
+<html>
+<body>
+O conteúdo do elemento body é exibido no seu navegador.
+</body>
+</html>
 
 
 ### Passos do Roteiro: Estrutura Semântica 
