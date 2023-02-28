@@ -55,13 +55,13 @@
 ### Códigos e Resultados
 
 ```
-
 <html>
 <body>
-O conteúdo do elemento body é exibido no seu navegador.
+Curso de Web Design - Este texto será exibido no corpo da página.
 </body>
 </html>
 ```
+Curso de Web Design - Este texto será exibido no corpo da página.
 
 
 
