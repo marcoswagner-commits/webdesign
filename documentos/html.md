@@ -62,7 +62,16 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 </html>
 ```
 Curso de Web Design - Este texto será exibido no corpo da página.
-
+----
+```
+<html>
+<body>
+Curso de Web Design - Este texto será exibido no corpo da página.
+</body>
+</html>
+```
+Curso de Web Design - Este texto será exibido no corpo da página.
+----
 
 
 
