@@ -136,6 +136,20 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 
 ----
 
+```
+<ul>
+ <li> Item 1 </li>
+ <li> Item 2 </li>
+</ul>
+```
+<ul>
+ <li> Item 1 </li>
+ <li> Item 2 </li>
+</ul>
+
+
+----
+
 
 
 ### Passos do Roteiro: Estrutura Semântica 
