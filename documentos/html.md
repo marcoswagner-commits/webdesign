@@ -555,23 +555,21 @@
 ```
 <html>
  <body>
-  <img src="w3c.npn" alt="W3C">
+  <img src="w3c.png" alt="W3C">
  </body>
- </hmtl>
+</hmtl>
 ```  
 
 <html>
  <body>
-  <img src="w3c.npn" alt="W3C">
+  <img src="w3c.png" alt="W3C">
  </body>
 </html>
   
   
 ### Passos do Roteiro: Estrutura Semântica 
-- [x] Tag html
-- [x] Tag head
- - Tag title, metatags, links... 
-- [x] Tag body
+- [x] Metatags
+- [x] Links de Cabeçalho
 - [x] Declaração "!Doctype HTML"
 - [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
 ----
