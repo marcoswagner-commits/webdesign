@@ -344,20 +344,95 @@
 ----    
 
 ```
+<!-- principal.html -->
+  
 <html>
  <body>
-  <a href ="frame_a.htm" target ="showframe">Moldura a</a><br />
-  <a href ="frame_b.htm" target ="showframe">Moldura b</a><br />
-  <a href ="frame_c.htm" target ="showframe">Moldura c</a>
+  <frameset cols="120,*">
+   <frame src="contents.html">
+   <frame src="frame_a.html" name="showframe">
+  </frameset>
+ </body>
+</html>
+ 
+<!-- contents.html -->  
+  
+<html>
+ <body>
+  <a href ="frame_a.html" target ="showframe">Moldura a</a><br />
+  <a href ="frame_b.html" target ="showframe">Moldura b</a><br />
+  <a href ="frame_c.html" target ="showframe">Moldura c</a>
  </body>
 </html>  
-```
-
+  
+<!-- frame_a.html -->    
+  
 <html>
  <body>
-  <a href ="frame_a.htm" target ="showframe">Moldura a</a><br />
-  <a href ="frame_b.htm" target ="showframe">Moldura b</a><br />
-  <a href ="frame_c.htm" target ="showframe">Moldura c</a>
+  <h1> Frame A </h1>
+ </body>
+</html>  
+
+<!-- frame_b.html -->    
+  
+<html>
+ <body>
+  <h1> Frame B </h1>
+ </body>
+</html>  
+
+<!-- frame_c.html -->    
+  
+<html>
+ <body>
+  <h1> Frame C </h1>
+ </body>
+</html>   
+  
+```
+
+<!-- principal.html -->
+  
+<html>
+ <body>
+  <frameset cols="120,*">
+   <frame src="contents.html">
+   <frame src="frame_a.html" name="showframe">
+  </frameset>
+ </body>
+</html>
+ 
+<!-- contents.html -->  
+  
+<html>
+ <body>
+  <a href ="frame_a.html" target ="showframe">Moldura a</a><br />
+  <a href ="frame_b.html" target ="showframe">Moldura b</a><br />
+  <a href ="frame_c.html" target ="showframe">Moldura c</a>
+ </body>
+</html>  
+  
+<!-- frame_a.html -->    
+  
+<html>
+ <body>
+  <h1> Frame A </h1>
+ </body>
+</html>  
+
+<!-- frame_b.html -->    
+  
+<html>
+ <body>
+  <h1> Frame B </h1>
+ </body>
+</html>  
+
+<!-- frame_c.html -->    
+  
+<html>
+ <body>
+  <h1> Frame C </h1>
  </body>
 </html> 
 
