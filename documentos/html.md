@@ -359,9 +359,9 @@
   
 <html>
  <body>
-  <a href ="frame_a.html" target ="showframe">Moldura a</a><br />
-  <a href ="frame_b.html" target ="showframe">Moldura b</a><br />
-  <a href ="frame_c.html" target ="showframe">Moldura c</a>
+  <a href ="frame_a.html" target ="showframe">Frame A</a><br />
+  <a href ="frame_b.html" target ="showframe">Frame B</a><br />
+  <a href ="frame_c.html" target ="showframe">Frame C</a>
  </body>
 </html>  
   
