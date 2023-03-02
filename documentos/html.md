@@ -40,9 +40,12 @@
  - Por que as tags dão significado ao conteúdo?
 - [x] Tagas html, head, body
 - [x] Tags h1 a h6
-- [x] Tags similares (mesmo efeito)
+- [x] Tags de parágrafo e com quebra de linha
+- [x] Tagas de comentários e filetes
 - [x] Listas não ordenadas
 - [x] Listas ordenadas
+- [x] Tags de Formatação
+- [x] Tags de Citação
 - [x] Links
 - [x] Atributos
 - [x] Links com atributos
@@ -239,8 +242,40 @@
 
 ----
 
+```
+<html>
+ <body>
+  <abbr>	Define uma abreviatura </abbr>
+  <acronym>	Define um acrônimo </acronym>
+  <address>	Define um elemento de endereço </address>
+  <bdo>	Define a direção do texto </bdo>
+  <blockquote>	Define uma citação longa </blockquote>
+  <q>	Define uma citação curta </q>
+  <cite>	Define uma citação </cite>
+  <dfn>	Define um termo de definição </dfn>
+ </body>
+</html>
+```
 
+<html>
+ <body>
+  <abbr>	Define uma abreviatura </abbr>
+  <acronym>	Define um acrônimo </acronym>
+  <address>	Define um elemento de endereço </address>
+  <bdo>	Define a direção do texto </bdo>
+  <blockquote>	Define uma citação longa </blockquote>
+  <q>	Define uma citação curta </q>
+  <cite>	Define uma citação </cite>
+  <dfn>	Define um termo de definição </dfn>
+ </body>
+</html>
 
+----  
+  
+  
+
+  
+  
 ### Passos do Roteiro: Estrutura Semântica 
 - [x] Tag html
 - [x] Tag head
