@@ -167,13 +167,13 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 ```
 <html>
 <body bgcolor="yellow">
-<h2>Veja: Fundo Clorido!</h2>
+<h2>Fundo Colorido! Apenas no browser</h2>
 </body>
 </html>
 ```
 <html>
 <body bgcolor="yellow">
-<h2>Veja: Fundo Clorido!</h2>
+<h2>Fundo Clorido! Apenas no browser</h2>
 </body>
 </html>
 
