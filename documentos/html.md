@@ -285,8 +285,45 @@
 </html>
 
 ----  
+
+```
+<html>
+ <body>
+  5 &lt 8
+  <br>
+  8 &gt 5
+  <br>
+  8 &amp 5 são números inteiros
+  <br>
+  1 &cent é &lt que 1 &pound
+  <br>
+  Este é o símbolo de parágrafo: &sect
+  <br>
+  Direitos de cópia podem ser expressos assim: &copy
+ </body>
+</html>
+```
+
+<html>
+ <body>
+  5 &lt 8
+  <br>
+  8 &gt 5
+  <br>
+  8 &amp 5 são números inteiros
+  <br>
+  1 &cent é &lt que 1 &pound
+  <br>
+  Este é o símbolo de parágrafo: &sect
+  <br>
+  Direitos de cópia podem ser expressos assim: &copy
+ </body>
+</html>
+
+----  
   
-  
+
+
 
   
   
