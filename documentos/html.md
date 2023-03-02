@@ -138,13 +138,13 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 
 ```
 <ul>
- <li> Item 2 </li>
  <li> Item 1 </li>
+ <li> Item 2 </li>
 </ul>
 ```
 <ul>
- <li> Item 2 </li>
  <li> Item 1 </li>
+ <li> Item 2 </li>
 </ul>
 
 
@@ -152,17 +152,34 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 
 ```
 <ol>
- <li> Item 2 </li>
  <li> Item 1 </li>
+ <li> Item 2 </li>
 </ol>
 ```
 <ol>
- <li> Item 2 </li>
  <li> Item 1 </li>
+ <li> Item 2 </li>
 </ol>
 
 
 ----
+
+```
+<html>
+<body bgcolor="yellow">
+<h2>Veja: Fundo Clorido!</h2>
+</body>
+</html>
+```
+<html>
+<body bgcolor="yellow">
+<h2>Veja: Fundo Clorido!</h2>
+</body>
+</html>
+
+
+----
+
 
 
 
