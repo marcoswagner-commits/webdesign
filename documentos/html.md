@@ -51,7 +51,7 @@
 - [x] Frames
 - [x] Tabelas
 - [x] Formulários (inputs)
-- [x] Imagens
+- [x] Imagens e Fundos (backgrounds)
 - [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
 ----
     
@@ -518,6 +518,8 @@
   
 ```
 
+* Visualização correta no navegador (browser):  
+  
 <html>
  <body>
   <form>
@@ -565,6 +567,40 @@
   <img src="w3c.png" alt="W3C">
  </body>
 </html>
+  
+
+----  
+
+```
+<html>
+ <body>
+  <img src="w3c.png" alt="W3C">
+ </body>
+</hmtl>
+```  
+
+<html>
+ <body>
+  <img src="w3c.png" alt="W3C">
+ </body>
+</html>
+  
+----  
+
+```
+<html>
+ <body bgcolor="#000000">
+ <body bgcolor="rgb(0,0,0)">
+ <body bgcolor="black"> 
+</hmtl>
+```  
+
+<html>
+ <body bgcolor="#000000">
+ <body bgcolor="rgb(0,0,0)">
+ <body bgcolor="black"> 
+</html>  
+  
   
   
 ### Passos do Roteiro: Estrutura Semântica 
