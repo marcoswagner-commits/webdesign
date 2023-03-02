@@ -482,6 +482,39 @@
 
 ----
 
+```
+<html>
+ <body>
+  <form>
+  Primeiro nome: 
+  <input type="text" name="firstname" placeholder="digite seu nome">
+  <br>
+  Último nome: 
+  <input type="text" name="lastname" placeholder="digite seu sobre nome">
+ </form>
+ </body>
+</hmtl>
+  
+```
+
+<html>
+ <body>
+  <form>
+  Primeiro nome: 
+  <input type="text" name="firstname" placeholder="digite seu nome">
+  <br>
+  Último nome: 
+  <input type="text" name="lastname" placeholder="digite seu sobre nome">
+ </form>
+ </body>
+</hmtl>
+  
+
+
+
+
+----  
+  
 
   
   
