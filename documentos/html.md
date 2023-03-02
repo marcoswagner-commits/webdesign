@@ -492,6 +492,26 @@
   Último nome: 
   <input type="text" name="lastname" placeholder="digite seu sobre nome">
  </form>
+  <br>
+  <form>
+  <input type="radio" name="manhã" value="mat"> Manhã
+  <br>
+  <input type="radio" name="tarde" value="ves"> Tarde
+  </form>
+  <br>
+  <form>
+  <input type="checkbox" name="moto">
+   Motocicleta
+  <br>
+  <input type="checkbox" name="car">
+   Carro
+  </form>
+  <br>
+  <form name="input" action="algo.???" method="get">
+  Nome do Usuário: 
+  <input type="text" name="user">
+  <input type="submit" value="Enviar">
+  </form>
  </body>
 </hmtl>
   
@@ -506,13 +526,26 @@
   Último nome: 
   <input type="text" name="lastname" placeholder="digite seu sobre nome">
  </form>
-  
+  <br>
   <form>
   <input type="radio" name="manhã" value="mat"> Manhã
   <br>
   <input type="radio" name="tarde" value="ves"> Tarde
   </form>
-  
+  <br>
+  <form>
+  <input type="checkbox" name="moto">
+   Motocicleta
+  <br>
+  <input type="checkbox" name="car">
+   Carro
+  </form>
+  <br>
+  <form name="input" action="algo.???" method="get">
+  Nome do Usuário: 
+  <input type="text" name="user">
+  <input type="submit" value="Enviar">
+  </form>
  </body>
 </hmtl>
   
