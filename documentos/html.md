@@ -506,6 +506,13 @@
   Último nome: 
   <input type="text" name="lastname" placeholder="digite seu sobre nome">
  </form>
+  
+  <form>
+  <input type="radio" name="manhã" value="mat"> Manhã
+  <br>
+  <input type="radio" name="tarde" value="ves"> Tarde
+  </form>
+  
  </body>
 </hmtl>
   
