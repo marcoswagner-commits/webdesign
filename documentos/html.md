@@ -184,14 +184,23 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 <html>
  <body>
   <b>	Define texto em negrito </b>
+  <hr>
   <big>	Define texto grande </big>
+  <hr>
   <em>	Define texto enfatizado </em>
+  <hr>
   <i>	Define texto em itálico </i>
+  <hr>
   <small>	Define texto pequeno </small>
+  <hr>
   <strong>	Define texto forte </strong>
+  <hr>
   <sub>	Define texto subescrito </sub>
+  <hr>
   <sup>	Define texto superescrito </sup>
+  <hr>
   <ins>	Define texto inserido </ins>
+  <hr>
   <del>	Define texto cancelado </del>
  </body>
 </html>
@@ -200,18 +209,26 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 <html>
  <body>
   <b>	Define texto em negrito </b>
+  <hr>
   <big>	Define texto grande </big>
+  <hr>
   <em>	Define texto enfatizado </em>
+  <hr>
   <i>	Define texto em itálico </i>
+  <hr>
   <small>	Define texto pequeno </small>
+  <hr>
   <strong>	Define texto forte </strong>
+  <hr>
   <sub>	Define texto subescrito </sub>
+  <hr>
   <sup>	Define texto superescrito </sup>
+  <hr>
   <ins>	Define texto inserido </ins>
+  <hr>
   <del>	Define texto cancelado </del>
  </body>
 </html>
-
 ----
 
 
