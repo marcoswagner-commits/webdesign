@@ -38,7 +38,7 @@
 ### Passos do Roteiro: HTML Principais Tags
 - [x] Funcionamento das Tags
  - Por que as tags dão significado ao conteúdo?
-- [x] Tags aninhadas
+- [x] Tagas html, head, body
 - [x] Tags h1 a h6
 - [x] Tags similares (mesmo efeito)
 - [x] Listas não ordenadas
@@ -56,15 +56,21 @@
 
 ```
 <html>
-<body>
-Curso de Web Design - Este texto será exibido no corpo da página.
-</body>
+ <head>
+  <title> Curso de Web Design </title>
+ <head>
+ <body>
+  Curso de Web Design - Este texto será exibido no corpo da página.
+ </body>
 </html>
 ```
 <html>
-<body>
-Curso de Web Design - Este texto será exibido no corpo da página.
-</body>
+ <head>
+  <title> Curso de Web Design </title>
+ <head>
+ <body>
+  Curso de Web Design - Este texto será exibido no corpo da página.
+ </body>
 </html>
 
 ----
@@ -178,6 +184,7 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 </html>
 
 
+
 ----
 
 ```
@@ -229,6 +236,7 @@ Curso de Web Design - Este texto será exibido no corpo da página.
   <del>	Define texto cancelado </del>
  </body>
 </html>
+
 ----
 
 
