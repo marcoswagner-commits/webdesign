@@ -47,9 +47,10 @@
 - [x] Tags de Formatação
 - [x] Tags de Citação
 - [x] Tags de Entidade
-- [x] Links
-- [x] Atributos
-- [x] Links com atributos
+- [x] Links e Atributos
+- [x] Frames
+- [x] Tabelas
+- [x] Imagens
 - [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
 ----
     
@@ -342,7 +343,28 @@
 
 ----    
 
+```
+<html>
+ <body>
+  <a href ="frame_a.htm" target ="showframe">Moldura a</a><br />
+  <a href ="frame_b.htm" target ="showframe">Moldura b</a><br />
+  <a href ="frame_c.htm" target ="showframe">Moldura c</a>
+ </body>
+</html>  
+```
 
+<html>
+ <body>
+  <a href ="frame_a.htm" target ="showframe">Moldura a</a><br />
+  <a href ="frame_b.htm" target ="showframe">Moldura b</a><br />
+  <a href ="frame_c.htm" target ="showframe">Moldura c</a>
+ </body>
+</html> 
+
+
+----    
+
+  
 
 
 
