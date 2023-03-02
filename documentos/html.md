@@ -50,6 +50,7 @@
 - [x] Links e Atributos
 - [x] Frames
 - [x] Tabelas
+- [x] Formulários (inputs)
 - [x] Imagens
 - [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
 ----
@@ -549,13 +550,21 @@
  </body>
 </hmtl>
   
-
-
-
-
 ----  
-  
 
+```
+<html>
+ <body>
+  <img src="w3c.npn" alt="W3C">
+ </body>
+ </hmtl>
+```  
+
+<html>
+ <body>
+  <img src="w3c.npn" alt="W3C">
+ </body>
+</html>
   
   
 ### Passos do Roteiro: Estrutura Semântica 
