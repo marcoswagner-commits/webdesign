@@ -46,6 +46,7 @@
 - [x] Listas ordenadas
 - [x] Tags de Formatação
 - [x] Tags de Citação
+- [x] Tags de Entidade
 - [x] Links
 - [x] Atributos
 - [x] Links com atributos
@@ -321,7 +322,25 @@
 </html>
 
 ----  
-  
+
+```
+<html>
+ <body>
+  <a href="http://www.ufj.edu.br/" target="_blank">UFJ</a>
+ </body>
+</html>  
+```
+
+<html>
+ <body>
+  <a href="http://www.ufj.edu.br/" target="_blank">UFJ</a>
+ </body>
+</html> 
+
+
+----    
+
+
 
 
 
