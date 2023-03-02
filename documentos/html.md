@@ -172,14 +172,47 @@ Curso de Web Design - Este texto será exibido no corpo da página.
 </html>
 ```
 <html>
-<body bgcolor="yellow">
-<h2>Fundo Clorido! Apenas no browser</h2>
-</body>
+ <body bgcolor="yellow">
+  <h2>Fundo Clorido! Apenas no browser</h2>
+ </body>
 </html>
 
 
 ----
 
+```
+<html>
+ <body>
+  <b>	Define texto em negrito </b>
+  <big>	Define texto grande </big>
+  <em>	Define texto enfatizado </em>
+  <i>	Define texto em itálico </i>
+  <small>	Define texto pequeno </small>
+  <strong>	Define texto forte </strong>
+  <sub>	Define texto subescrito </sub>
+  <sup>	Define texto superescrito </sup>
+  <ins>	Define texto inserido </ins>
+  <del>	Define texto cancelado </del>
+ </body>
+</html>
+```
+
+<html>
+ <body>
+  <b>	Define texto em negrito </b>
+  <big>	Define texto grande </big>
+  <em>	Define texto enfatizado </em>
+  <i>	Define texto em itálico </i>
+  <small>	Define texto pequeno </small>
+  <strong>	Define texto forte </strong>
+  <sub>	Define texto subescrito </sub>
+  <sup>	Define texto superescrito </sup>
+  <ins>	Define texto inserido </ins>
+  <del>	Define texto cancelado </del>
+ </body>
+</html>
+
+----
 
 
 
