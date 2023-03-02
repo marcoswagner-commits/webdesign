@@ -219,23 +219,23 @@
 <html>
  <body>
   <b>	Define texto em negrito </b>
-  <hr>
+  <br>
   <big>	Define texto grande </big>
-  <hr>
+  <br>
   <em>	Define texto enfatizado </em>
-  <hr>
+  <br>
   <i>	Define texto em itálico </i>
-  <hr>
+  <br>
   <small>	Define texto pequeno </small>
-  <hr>
+  <br>
   <strong>	Define texto forte </strong>
-  <hr>
+  <br>
   <sub>	Define texto subescrito </sub>
-  <hr>
+  <br>
   <sup>	Define texto superescrito </sup>
-  <hr>
+  <br>
   <ins>	Define texto inserido </ins>
-  <hr>
+  <br>
   <del>	Define texto cancelado </del>
  </body>
 </html>
@@ -267,12 +267,19 @@
 <html>
  <body>
   <abbr>	Define uma abreviatura </abbr>
+  <br>
   <acronym>	Define um acrônimo </acronym>
+    <br>
   <address>	Define um elemento de endereço </address>
+    <br>
   <bdo>	Define a direção do texto </bdo>
+    <br>
   <blockquote>	Define uma citação longa </blockquote>
+    <br>
   <q>	Define uma citação curta </q>
+    <br>
   <cite>	Define uma citação </cite>
+    <br>
   <dfn>	Define um termo de definição </dfn>
  </body>
 </html>
