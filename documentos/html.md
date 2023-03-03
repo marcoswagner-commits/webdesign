@@ -41,7 +41,7 @@
 - [x] Tagas html, head, body
 - [x] Tags h1 a h6
 - [x] Tags de parágrafo e com quebra de linha
-- [x] Tagas de comentários e filetes
+- [x] Tags de comentários e filetes
 - [x] Listas não ordenadas
 - [x] Listas ordenadas
 - [x] Tags de Formatação
