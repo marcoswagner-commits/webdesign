@@ -348,12 +348,12 @@
 <!-- principal.html -->
   
 <html>
- <body>
+ 
   <frameset cols="120,*">
    <frame src="contents.html">
    <frame src="frame_a.html" name="showframe">
   </frameset>
- </body>
+ 
 </html>
  
 <!-- contents.html -->  
@@ -395,7 +395,7 @@
 <!-- principal.html -->
   
 <html>
- <body>
+
   <frameset cols="120,*">
    <frame src="contents.html">
    <frame src="frame_a.html" name="showframe">
