@@ -606,7 +606,7 @@
 ### Passos do Roteiro: Estrutura Semântica 
 - [x] Metatags 
 - [x] Links de Cabeçalho
-- [x] Declaração "!Doctype HTML"
+- [x] Declaração "!Doctype HTML" e Meta charset
 - [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
 ----
   
@@ -621,10 +621,22 @@ Este elemento meta define palavras-chave para a sua página:
 
 A intenção dos atributos name e content é descrever o conteúdo de uma página.
 
+Existem também outras informações importantes que podem ser colocadas como atributo. Por exemplo a linguagem usada:  
 ```
 <html lang="pt-br">
 ```
 
+Declarações do tipo de arquivo
+```
+<!doctype html>
+```
+
+Meta Charset
+```
+<meta charset="utf8">
+```
+ 
+ 
   
 #### Vídeos
 
