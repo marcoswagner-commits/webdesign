@@ -631,7 +631,7 @@ Declarações do tipo de arquivo
 <!doctype html>
 ```
 
-Meta Charset - codificação de caracteres
+Meta Charset - codificação de caracteres (acento e cedilha)
 ```
 <meta charset="utf8">
 ```
