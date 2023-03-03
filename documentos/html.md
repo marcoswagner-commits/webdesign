@@ -604,7 +604,7 @@
   
   
 ### Passos do Roteiro: Estrutura Semântica 
-- [x] Metatags
+- [x] Metatags 
 - [x] Links de Cabeçalho
 - [x] Declaração "!Doctype HTML"
 - [x] Na prática (cursos com título/subtítulo - nome do instrutor - conteúdo - referências)
@@ -620,7 +620,11 @@ Este elemento meta define palavras-chave para a sua página:
 ```
 
 A intenção dos atributos name e content é descrever o conteúdo de uma página.
-  
+
+```
+<html lang="pt-br">
+```
+
   
 #### Vídeos
 
