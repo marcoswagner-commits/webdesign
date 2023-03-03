@@ -10,7 +10,11 @@
 - [Java Script]()
 - [Projetos]()
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/webdesign/files/10824386/Conteudo_Basico_v1.pdf)
+
+
+- [Conteudo_Basico_v2.pdf](https://github.com/marcoswagner-commits/webdesign/files/10877568/Conteudo_Basico_v2.pdf)
+
+
 
   
 
