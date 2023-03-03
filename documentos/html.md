@@ -613,7 +613,7 @@
 Este elemento meta define uma descrição da sua página:
 ```
   <meta name="description" content="Tutoriais Web livres sobre HTML, CSS, XML, e XHTML">
-
+```
 Este elemento meta define palavras-chave para a sua página:
 ```
   <meta name="keywords" content="HTML, DHTML, CSS, XML, XHTML, JavaScript, VBScript">
