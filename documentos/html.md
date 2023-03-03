@@ -38,7 +38,7 @@
 ### Passos do Roteiro: HTML Principais Tags
 - [x] Funcionamento das Tags
  - Por que as tags dão significado ao conteúdo?
-- [x] Tagas html, head, body
+- [x] Tags html, head, body
 - [x] Tags h1 a h6
 - [x] Tags de parágrafo e com quebra de linha
 - [x] Tags de comentários e filetes
