@@ -147,6 +147,8 @@ p {
 <img width="500" alt="seletores2" src="https://user-images.githubusercontent.com/81576640/222615570-16c8d2b7-9673-4bd8-9c22-a415c25cf87d.png">
 <img width="500" alt="seletores3" src="https://user-images.githubusercontent.com/81576640/222615567-7d22a4c3-48de-4bb6-89c9-13ccf3655287.png">
 
+![Captura de Tela 2023-03-07 às 17 27 02](https://user-images.githubusercontent.com/81576640/223544624-ea202847-92f9-45da-8fcf-db708a77dec7.png)
+
 
 
 
