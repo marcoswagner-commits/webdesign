@@ -19,8 +19,9 @@ Com CSS, você pode controlar a cor, a fonte, o tamanho do texto, o espaçamento
 
 * A palavra em cascata significa que um estilo aplicado a um elemento pai também será aplicado a todos os elementos filhos dentro do pai. Portanto, se você definir a cor do corpo do texto como "azul", todos os títulos, parágrafos e outros elementos de texto no corpo também terão a mesma cor (a menos que você especifique outra coisa)!
 
-<img width="500" alt="sintaxe" src="https://user-images.githubusercontent.com/81576640/222615579-e074ccf8-1dcd-4f6b-a322-50d3f5b90c95.png">
-<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/81576640/222615576-cc1d696b-18e3-491e-a364-0fcb9928474b.png">
+<img width="500" alt="fonte" src="https://user-images.githubusercontent.com/81576640/222615564-27c5d526-04fb-49e3-98d8-41c546a7dbdf.png">
+<img width="500" alt="texto" src="https://user-images.githubusercontent.com/81576640/222615550-ccf1b5d8-a515-4df1-9b60-9a3f9d93e0d4.png">
+<img width="500" alt="cores" src="https://user-images.githubusercontent.com/81576640/222615581-ce4dc989-ee01-4cb2-a88b-7f584136cc4a.png">
 
 
 ## Usando CSS
@@ -56,13 +57,15 @@ O exemplo a seguir define a cor do texto do elemento "h1" como azul e a cor do t
 
 <p style="color:red;">Um parágrafo vermelho.</p>
 
-![text_css](https://user-images.githubusercontent.com/81576640/222615550-ccf1b5d8-a515-4df1-9b60-9a3f9d93e0d4.png)
-![font-css](https://user-images.githubusercontent.com/81576640/222615564-27c5d526-04fb-49e3-98d8-41c546a7dbdf.png)
+<img width="500" alt="sintaxe" src="https://user-images.githubusercontent.com/81576640/222615579-e074ccf8-1dcd-4f6b-a322-50d3f5b90c95.png">
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/81576640/222615576-cc1d696b-18e3-491e-a364-0fcb9928474b.png">
+
+
 ![seletores3_css](https://user-images.githubusercontent.com/81576640/222615567-7d22a4c3-48de-4bb6-89c9-13ccf3655287.png)
 ![seletores2_css](https://user-images.githubusercontent.com/81576640/222615570-16c8d2b7-9673-4bd8-9c22-a415c25cf87d.png)
 ![seletores1_css](https://user-images.githubusercontent.com/81576640/222615572-4a5ccec6-ee57-40f5-9909-9207835218d6.png)
 
-![cores_css](https://user-images.githubusercontent.com/81576640/222615581-ce4dc989-ee01-4cb2-a88b-7f584136cc4a.png)
+![cores_css]()
 
 
 
