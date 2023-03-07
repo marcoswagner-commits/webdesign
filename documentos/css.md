@@ -12,8 +12,14 @@
  - Textos (indent, decoration, align, text-transform, letter-spacing, word-spacing)
  - Cores (Padrão RGB)
 - [x] Tipos de CSS
+- [ ] Inline
 - [x] Primeiro exemplo
- - 
+- [ ] Interno
+- [x] Segundo exemplo
+- [ ] Externo
+- [x] Terceiro exemplo
+- [ ] Seletores
+ 
 
 ## O que é CSS?
 Cascading Style Sheets (CSS - Folhas de Estilo em Cascata) é usado para formatar o layout de uma página da web.
@@ -90,7 +96,49 @@ O exemplo a seguir define a cor do texto de TODOS os elementos "h1" (naquela pá
 
  - Resultado (apenas no browser)
  
+ 
+### CSS externo
+Uma folha de estilo externa é usada para definir o estilo de muitas páginas HTML.
 
+Para usar uma folha de estilo externa, adicione um link para ela na seção "head" de cada página HTML:
+
+- Terceiro Exemplo
+Arquivo HTML
+ 
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+
+Arquivo CSS (styles.css)
+
+```
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+```
+
+ - Resultado (apenas no browser)
+
+
+
+### Seletores
 
 <img width="500" alt="sintaxe" src="https://user-images.githubusercontent.com/81576640/222615579-e074ccf8-1dcd-4f6b-a322-50d3f5b90c95.png">
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/81576640/222615576-cc1d696b-18e3-491e-a364-0fcb9928474b.png">
