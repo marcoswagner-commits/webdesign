@@ -22,17 +22,17 @@ Com CSS, você pode controlar a cor, a fonte, o tamanho do texto, o espaçamento
 ## Usando CSS
 CSS pode ser adicionado a documentos HTML de 3 maneiras:
 
-Inline - usando o atributo style dentro dos elementos HTML
+Inline (em linha ou embutidos) - usando o atributo style dentro dos elementos HTML
 Interno - usando um elemento "style" na seção "head"
 Externo - usando um elemento "link" para vincular a um arquivo CSS externo
  
-A maneira mais comum de adicionar CSS é manter os estilos em arquivos CSS externos. Neste material será abordado o uso de estilos embutidos e internos, pois isto facilita a didática sobre o assunto.
+A maneira mais comum de adicionar CSS é manter os estilos em arquivos CSS externos. Neste material será abordado o uso de estilos Inline, Internos e Externos, pois isto facilita a didática sobre o assunto.
  
-### CSS embutido
+### CSS Inline
  
-Um CSS embutido é usado para aplicar um estilo único a um único elemento HTML.
+Um CSS Inline é usado para aplicar um estilo único a um único elemento HTML.
 
-Um CSS embutido usa o atributo style de um elemento HTML.
+Um CSS Inline usa o atributo style de um elemento HTML.
 
 O exemplo a seguir define a cor do texto do elemento "h1" como azul e a cor do texto do elemento "p" como vermelho:
 
@@ -44,7 +44,7 @@ O exemplo a seguir define a cor do texto do elemento "h1" como azul e a cor do t
 <p style="color:red;">Um parágrafo vermelho.</p>
 ```
 
-- Resultado: 
+- Resultado (apenas no browser): 
  
 <h1 style="color:blue;">Um cabeçalho azul</h1>
 
