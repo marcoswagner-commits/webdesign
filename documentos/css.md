@@ -149,7 +149,7 @@ p {
 
 ![Captura de Tela 2023-03-07 às 17 27 02](https://user-images.githubusercontent.com/81576640/223544624-ea202847-92f9-45da-8fcf-db708a77dec7.png)
 
-
+Outros seletores e definições de CSS podem ser vistos neste Guia de Referência: (https://www.w3c.br/divulgacao/guiasreferencia/css2/#mod-seletores)
 
 
 🎬
