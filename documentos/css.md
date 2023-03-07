@@ -82,6 +82,7 @@ O exemplo a seguir define a cor do texto de TODOS os elementos "h1" (naquela pá
  <h1>Este é um cabeçalho</h1>
  <p>Este é um parágrafo.</p>
  <p>Um outro parágrafo.</p>
+ <p style="color:blue">Um terceiro parágrafo</p>
 
 </body>
 </html>
