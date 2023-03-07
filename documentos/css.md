@@ -19,9 +19,9 @@ Com CSS, você pode controlar a cor, a fonte, o tamanho do texto, o espaçamento
 
 * A palavra em cascata significa que um estilo aplicado a um elemento pai também será aplicado a todos os elementos filhos dentro do pai. Portanto, se você definir a cor do corpo do texto como "azul", todos os títulos, parágrafos e outros elementos de texto no corpo também terão a mesma cor (a menos que você especifique outra coisa)!
 
-<img width="500" alt="tipos" src="https://user-images.githubusercontent.com/81576640/222615574-ec83c593-53ab-4bfc-9d4d-260f5c06cf2d.png">
-<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/81576640/222615576-cc1d696b-18e3-491e-a364-0fcb9928474b.png">
 <img width="500" alt="sintaxe" src="https://user-images.githubusercontent.com/81576640/222615579-e074ccf8-1dcd-4f6b-a322-50d3f5b90c95.png">
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/81576640/222615576-cc1d696b-18e3-491e-a364-0fcb9928474b.png">
+
 
 ## Usando CSS
 CSS pode ser adicionado a documentos HTML de 3 maneiras:
@@ -29,7 +29,9 @@ CSS pode ser adicionado a documentos HTML de 3 maneiras:
 Inline (em linha ou embutidos) - usando o atributo style dentro dos elementos HTML
 Interno - usando um elemento "style" na seção "head"
 Externo - usando um elemento "link" para vincular a um arquivo CSS externo
- 
+
+<img width="500" alt="tipos" src="https://user-images.githubusercontent.com/81576640/222615574-ec83c593-53ab-4bfc-9d4d-260f5c06cf2d.png">
+
 A maneira mais comum de adicionar CSS é manter os estilos em arquivos CSS externos. Neste material será abordado o uso de estilos Inline, Internos e Externos, pois isto facilita a didática sobre o assunto.
  
 ### CSS Inline
