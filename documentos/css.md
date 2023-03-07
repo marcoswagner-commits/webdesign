@@ -52,6 +52,8 @@ O exemplo a seguir define a cor do texto do elemento "h1" como azul e a cor do t
 <h1 style="color:blue;">Um cabeçalho azul</h1>
 
 <p style="color:red;">Um parágrafo vermelho.</p>
+
+<p>Um parágrafo normal.</p>
 ```
 
 - Resultado (apenas no browser)
