@@ -19,6 +19,10 @@ Com CSS, você pode controlar a cor, a fonte, o tamanho do texto, o espaçamento
 
 * A palavra em cascata significa que um estilo aplicado a um elemento pai também será aplicado a todos os elementos filhos dentro do pai. Portanto, se você definir a cor do corpo do texto como "azul", todos os títulos, parágrafos e outros elementos de texto no corpo também terão a mesma cor (a menos que você especifique outra coisa)!
 
+<img width="500" alt="tipos" src="https://user-images.githubusercontent.com/81576640/222615574-ec83c593-53ab-4bfc-9d4d-260f5c06cf2d.png">
+<img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/81576640/222615576-cc1d696b-18e3-491e-a364-0fcb9928474b.png">
+<img width="500" alt="sintaxe" src="https://user-images.githubusercontent.com/81576640/222615579-e074ccf8-1dcd-4f6b-a322-50d3f5b90c95.png">
+
 ## Usando CSS
 CSS pode ser adicionado a documentos HTML de 3 maneiras:
 
@@ -55,9 +59,7 @@ O exemplo a seguir define a cor do texto do elemento "h1" como azul e a cor do t
 ![seletores3_css](https://user-images.githubusercontent.com/81576640/222615567-7d22a4c3-48de-4bb6-89c9-13ccf3655287.png)
 ![seletores2_css](https://user-images.githubusercontent.com/81576640/222615570-16c8d2b7-9673-4bd8-9c22-a415c25cf87d.png)
 ![seletores1_css](https://user-images.githubusercontent.com/81576640/222615572-4a5ccec6-ee57-40f5-9909-9207835218d6.png)
-![tipos_css](https://user-images.githubusercontent.com/81576640/222615574-ec83c593-53ab-4bfc-9d4d-260f5c06cf2d.png)
-![exemplo_sintaxe_css](https://user-images.githubusercontent.com/81576640/222615576-cc1d696b-18e3-491e-a364-0fcb9928474b.png)
-![sintaxe_css](https://user-images.githubusercontent.com/81576640/222615579-e074ccf8-1dcd-4f6b-a322-50d3f5b90c95.png)
+
 ![cores_css](https://user-images.githubusercontent.com/81576640/222615581-ce4dc989-ee01-4cb2-a88b-7f584136cc4a.png)
 
 
