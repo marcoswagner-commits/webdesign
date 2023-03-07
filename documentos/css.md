@@ -8,6 +8,9 @@
 
 ### Passos do Roteiro: CSS
 - [x] Conceituar CSS
+ - Fontes (family, size, style, weigth, variant)
+ - Textos (indent, decoration, align, text-transform, letter-spacing, word-spacing)
+ - Cores (Padrão RGB)
 - [x] Tipos de CSS
 - [x] Primeiro exemplo
  - 
@@ -51,21 +54,47 @@ O exemplo a seguir define a cor do texto do elemento "h1" como azul e a cor do t
 <p style="color:red;">Um parágrafo vermelho.</p>
 ```
 
-- Resultado (apenas no browser): 
- 
-<h1 style="color:blue;">Um cabeçalho azul</h1>
+- Resultado (apenas no browser)
 
-<p style="color:red;">Um parágrafo vermelho.</p>
+### CSS interno
+Um CSS interno é usado para definir um estilo para uma única página HTML.
+
+Um CSS interno é definido na seção "head" de uma página HTML, dentro de um elemento "style".
+
+O exemplo a seguir define a cor do texto de TODOS os elementos "h1" (naquela página) como azul e a cor do texto de TODOS os elementos "p" como vermelho. Além disso, a página será exibida com uma cor de fundo "powderblue":
+
+- Segundo Exemplo
+ 
+```
+<!DOCTYPE html>
+<html>
+ <head>
+  <style>
+   body {background-color: powderblue;}
+   h1   {color: blue;}
+   p    {color: red;}
+  </style>
+</head>
+<body>
+
+ <h1>Este é um cabeçalho</h1>
+ <p>Este é um parágrafo.</p>
+
+</body>
+</html>
+```
+
+ - Resultado (apenas no browser)
+ 
+
 
 <img width="500" alt="sintaxe" src="https://user-images.githubusercontent.com/81576640/222615579-e074ccf8-1dcd-4f6b-a322-50d3f5b90c95.png">
 <img width="500" alt="exemplo" src="https://user-images.githubusercontent.com/81576640/222615576-cc1d696b-18e3-491e-a364-0fcb9928474b.png">
 
+<img width="500" alt="seletores1" src="https://user-images.githubusercontent.com/81576640/222615572-4a5ccec6-ee57-40f5-9909-9207835218d6.png">
+<img width="500" alt="seletores2" src="https://user-images.githubusercontent.com/81576640/222615570-16c8d2b7-9673-4bd8-9c22-a415c25cf87d.png">
+<img width="500" alt="seletores3" src="https://user-images.githubusercontent.com/81576640/222615567-7d22a4c3-48de-4bb6-89c9-13ccf3655287.png">
 
-![seletores3_css](https://user-images.githubusercontent.com/81576640/222615567-7d22a4c3-48de-4bb6-89c9-13ccf3655287.png)
-![seletores2_css](https://user-images.githubusercontent.com/81576640/222615570-16c8d2b7-9673-4bd8-9c22-a415c25cf87d.png)
-![seletores1_css](https://user-images.githubusercontent.com/81576640/222615572-4a5ccec6-ee57-40f5-9909-9207835218d6.png)
-
-![cores_css]()
 
 
 
