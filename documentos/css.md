@@ -12,13 +12,14 @@
  - Textos (indent, decoration, align, text-transform, letter-spacing, word-spacing)
  - Cores (Padrão RGB)
 - [x] Tipos de CSS
-- [ ] Inline
-- [x] Primeiro exemplo
-- [ ] Interno
-- [x] Segundo exemplo
-- [ ] Externo
-- [x] Terceiro exemplo
-- [ ] Seletores
+ - [x] Inline
+ - [ ] Primeiro exemplo
+ - [x] Interno
+ - [ ] Segundo exemplo
+ - [x] Externo
+ - [ ] Terceiro exemplo
+- [x] Seletores
+- [x] Unidades
  
 
 ## O que é CSS?
@@ -150,6 +151,8 @@ p {
 ![Captura de Tela 2023-03-07 às 17 27 02](https://user-images.githubusercontent.com/81576640/223544624-ea202847-92f9-45da-8fcf-db708a77dec7.png)
 
 Outros seletores e definições de CSS podem ser vistos neste Guia de Referência: (https://www.w3c.br/divulgacao/guiasreferencia/css2/#mod-seletores)
+
+![unidades](https://user-images.githubusercontent.com/81576640/223881791-7ef48e3b-6b93-4c14-ad71-dc3f5b05e6a2.png)
 
 
 #### Vídeos
