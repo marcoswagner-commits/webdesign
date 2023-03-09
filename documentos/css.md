@@ -235,6 +235,75 @@ p {
 
 Outras bordas e definições de CSS podem ser vistos neste Guia de Referência: (https://www.w3c.br/divulgacao/guiasreferencia/css2/#mod-bordas)
 
+![margens](https://user-images.githubusercontent.com/81576640/223886027-b771eff7-7388-489a-b26a-3699cfac72e3.png)
+
+![espacamento](https://user-images.githubusercontent.com/81576640/223886021-fd67fcca-3136-479e-b4fc-71a43bd7bdee.png)
+
+### Exemplo de Seletores de Classe
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Curso de Web Design</h1>
+<p>Texto de um parágrafo.</p>
+<p id="estilo1">Texto de outro parágrafo.</p>
+<p id="estilo2">Texto de um terceiro parágrafo.</p>
+
+</body>
+</html>
+```
+
+Arquivo CSS (styles.css)
+
+```
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  background-color: beige;
+  font-family: arial;
+  margin-left: 20px;
+  padding-left: 20px;
+  margin-top: 20px;
+  padding-top: 20px;
+  margin-right: 20px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border-style: dashed;
+  border-width: 2px;
+  
+}
+p {
+  color: red;
+  font-variant: small-caps;
+  font-family: arial;
+  margin-left: 4%;
+  padding-left: 20pt;
+  margin-top: 20pt;
+  padding-top: 20pt;
+  margin-right: 4%;
+  padding-right: 20pt;
+  margin-bottom: 20pt;
+  padding-bottom: 20pt;    
+}
+#estilo1 {
+  color: green;
+}
+
+#estilo2 {
+  color: darkblue;
+}
+
+```
+
 
 
 #### Vídeos
