@@ -279,7 +279,11 @@ h1 {
   text-align: center;
   border-style: dashed;
   border-width: 2px;
+  width: 80%;
+  height: 50px;
   
+
+    
 }
 p {
   color: red;
