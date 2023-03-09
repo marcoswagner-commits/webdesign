@@ -189,6 +189,43 @@ p {
 
 ```
 
+### Exemplo de Seletores de Classe
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Este é um cabeçalho</h1>
+<p>Este é um parágrafo.</p>
+<p class="estilo1">Este é um outro parágrafo.</p>
+<p class="estilo1">Este é um terceiro parágrafo.</p>
+
+</body>
+</html>
+```
+
+Arquivo CSS (styles.css)
+
+```
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+#estilo1 {
+  color: green;
+}
+
+```
+
 
 ![unidades](https://user-images.githubusercontent.com/81576640/223881791-7ef48e3b-6b93-4c14-ad71-dc3f5b05e6a2.png)
 
