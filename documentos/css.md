@@ -20,7 +20,11 @@
  - [ ] Terceiro exemplo
 - [x] Seletores
 - [x] Unidades
- 
+- [x] Modelos de Caixa
+  - [ ] Quarto exemplo
+- [x] Pseudo Classes
+- [x] Atividade prática (Criando uma página - Currículo ou Curso)
+
 
 ## O que é CSS?
 Cascading Style Sheets (CSS - Folhas de Estilo em Cascata) é usado para formatar o layout de uma página da web.
@@ -308,6 +312,202 @@ p {
 
 ```
 
+### Pseudo-Classes
+
+![Captura de Tela 2023-03-08 às 22 30 52](https://user-images.githubusercontent.com/81576640/223892245-80043a47-4c1d-46cd-97b7-886a205ee324.png)
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Curso de Web Design</h1>
+<p>Texto de um parágrafo.</p>
+<p id="estilo1">Texto de outro parágrafo.</p>
+<p id="estilo2">Texto de um terceiro parágrafo.</p>
+<a href="https://www.w3c.br" target="_blank"> Acesse o W3C para mais informações!</a> 
+</body>
+</html>
+```
+
+Arquivo CSS (styles.css)
+
+```
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  background-color: beige;
+  font-family: arial;
+  margin-left: 20px;
+  padding-left: 20px;
+  margin-top: 20px;
+  padding-top: 20px;
+  margin-right: 20px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border-style: dashed;
+  border-width: 2px;
+  width: 80%;
+  height: 50px;
+  
+
+    
+}
+p {
+  color: red;
+  font-variant: small-caps;
+  font-family: arial;
+  margin-left: 4%;
+  padding-left: 20pt;
+  margin-top: 20pt;
+  padding-top: 20pt;
+  margin-right: 4%;
+  padding-right: 20pt;
+  margin-bottom: 20pt;
+  padding-bottom: 20pt;    
+}
+#estilo1 {
+  color: green;
+}
+
+#estilo2 {
+  color: darkblue;
+}
+a:hover {
+    color:red;
+}
+
+```
+
+### Praticando construindo um currículo ou um curso - Dê estética ao código abaixo:
+
+```
+<!doctype html>
+<!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
+<html lang="pt-br">
+    <head>
+        <title> Curso de Web Design </title>
+        <meta charset="utf-8">
+        <meta name="author" content="Marcos Wagner">
+        <meta name="description" content="compreendendo CSS">
+        <meta name="keywords" content="html5, css">
+        
+        <style>
+            
+            body{
+                width: 80%;
+                margin: auto;
+                /* margin: auto centraliza na horizontal */                
+                font-family: Verdana, helvetica, sans-serif;
+                color: #444;
+            }
+            
+            h1{
+                color: #9f461f;
+                text-align: center;
+                background-color: #fac877;
+                font-size: 46px;
+            }
+            
+            h2{
+                color: red;
+                background-color: #c79090;
+                font-size: 36px;
+                border-bottom: solid 3px red;
+                padding: 10px;
+            }
+            
+            ul{
+                padding-left: 0;
+            }
+            
+            li{
+                padding-left: 0;
+                list-style-position: inside;
+            }
+            
+            a{
+                text-decoration: none;
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+            
+            
+            
+    
+        </style>
+        
+    </head>
+    <body>           
+        
+        <h1>Luke Skywalker</h1>
+        <p>Natural de Tatooine</p>
+
+        <h2>Objetivo</h2>
+        <p>Salvar a galáxia</p>
+
+        <h2>Experiência profissional</h2>
+        <h3><a href="http://ufj.edu.br" target="_blank">Rebeldes</a> - 12/2014 até 02/2015 - 2 meses</h3>
+        <h4>Sabre de Luz - Toda a vida</h4>
+        <p>Controle de dois sabres ao mesmo tempo.</p>
+
+        <h3><a href="http://ufj.edu.br" target="_blank">Aliança</a> - 1 ano</h3>
+        <h4>Controle de mentes fracas - 1 ano</h4>
+        <p>Atuei como manipulador de mentes do império durante 1 ano.</p>
+
+        <p>Também usei o poder da força para melhorar o mundo</p>
+
+        <h3><a href="http://ufj.edu.br" target="_blank">G1</a> - 6 meses</h3>
+        <h4>O uso da Força - 6 meses</h4>
+        <p>A Força é: "Um campo de energia criado por todas as coisas vivas. Ele nos envolve e penetra, é o que mantém a galáxia unida."</p>
+
+        <h2>Formação</h2>
+        <h3>Graduação em Mecânica Interestelar</h3>
+        <p class="destaque">01/2010 a 12/2012</p>
+
+        <p>Universidade Galática de Endor</p>
+
+        <h3>Pós-graduação em Velocidade da Luz</h3>
+        <p class="destaque">08/2014 a 12/2015</p>
+
+        <p>Faculdade de Quântica de Dagoba</p>
+
+        <h2>Cursos / Especializações</h2>
+        <ul>
+            <li>
+                Viagem na velocidade da luz (2059);
+            </li>
+            <li>
+                Treinamento no hiperespaço (2060);
+            </li>
+        </ul>
+        <h3>Galáxia</h3>
+        <p>Nome dos Planetas - 40h - 2018</p>
+
+        <h3>Sistema Planetário</h3>
+        <p>Funcionamento dos Anéis Planetários - 40h - 2018</p>
+
+        <h3>Código Jedi</h3>
+        <p>“Não há emoção, há paz.” “Não há ignorância, há conhecimento.”
+            “Não há paixão, há serenidade.”“Não há morte, há a Força.” - 40h - 2018</p>
+
+        <h3>Idiomas</h3>
+        <p>Leitura de Pensamento: Básico</p>
+        
+        <h3>Frase predileta</h3>
+        <p>"Há muito tempo, numa galáxia muito muito distante...",</p>
+        
+        
+    </body>
+</html>
 
 
 #### Vídeos
