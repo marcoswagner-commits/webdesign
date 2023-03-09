@@ -114,8 +114,9 @@ Arquivo HTML
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Este é um cabeçalho</h1>
+<p>Este é um parágrafo.</p>
+<p>Este é um outro parágrafo.</p>
 
 </body>
 </html>
@@ -152,7 +153,51 @@ p {
 
 Outros seletores e definições de CSS podem ser vistos neste Guia de Referência: (https://www.w3c.br/divulgacao/guiasreferencia/css2/#mod-seletores)
 
+### Exemplo de Seletores de ID
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Este é um cabeçalho</h1>
+<p>Este é um parágrafo.</p>
+<p id="estilo1">Este é um outro parágrafo.</p>
+
+</body>
+</html>
+```
+
+Arquivo CSS (styles.css)
+
+```
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+#estilo1 {
+  color: green;
+}
+
+```
+
+
 ![unidades](https://user-images.githubusercontent.com/81576640/223881791-7ef48e3b-6b93-4c14-ad71-dc3f5b05e6a2.png)
+
+![Captura de Tela 2023-03-08 às 21 15 19](https://user-images.githubusercontent.com/81576640/223882200-9a629c26-244c-48b9-b213-adb6e44a00c1.png)
+
+![Captura de Tela 2023-03-08 às 21 16 23](https://user-images.githubusercontent.com/81576640/223882309-092513f1-b198-489e-adc0-f606cbb82627.png)
+
+Outras bordas e definições de CSS podem ser vistos neste Guia de Referência: (https://www.w3c.br/divulgacao/guiasreferencia/css2/#mod-bordas)
+
 
 
 #### Vídeos
