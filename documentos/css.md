@@ -220,7 +220,7 @@ h1 {
 p {
   color: red;
 }
-#estilo1 {
+.estilo1 {
   color: green;
 }
 
