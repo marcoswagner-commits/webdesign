@@ -141,6 +141,9 @@ Para fazer o uso de um script em uma página é necessário usar a tag "script".
 
 - Primeiro Script (uma janela)
 
+![image](https://user-images.githubusercontent.com/81576640/225649222-236ad5fb-1a97-4330-99ea-65e8e4bf884a.png)
+
+
 #### Vídeos
 
 🎬
