@@ -11,22 +11,14 @@
 - [x] Antes, porém, Formulários!
 - [ ] Tag Form
 - [ ] Tag Input
-- [ ] Atributos do Input
+- [ ] Atributos do Input (type, name, id)
+- [ ] Atributos do Form (action, method, target)
+- [ ] Primeiro script
 
 
 
 ## O que é JavaScript?
 JavaScript é uma linguagem de programação que permite implementar itens "complexos" em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido. É a terceira camada do bolo das tecnologias padrões da web, duas das quais (HTML e CSS) nós falamos com muito mais detalhes em outras partes da Área de Aprendizado.
-
-<img width="500" alt="fonte" src="https://user-images.githubusercontent.com/81576640/222615564-27c5d526-04fb-49e3-98d8-41c546a7dbdf.png">
-<img width="500" alt="texto" src="https://user-images.githubusercontent.com/81576640/222615550-ccf1b5d8-a515-4df1-9b60-9a3f9d93e0d4.png">
-<img width="500" alt="cores" src="https://user-images.githubusercontent.com/81576640/222615581-ce4dc989-ee01-4cb2-a88b-7f584136cc4a.png">
-
-
-## Usando JavaScript
-CSS pode ser adicionado a documentos HTML de 3 maneiras:
-
-
 
 - Exemplo de Formulário:
  
@@ -53,6 +45,30 @@ CSS pode ser adicionado a documentos HTML de 3 maneiras:
 </html>
 ```
 
+
+## Usando JavaScript
+Para fazer o uso de um script em uma página é necessário usar a tag "script".
+
+- Primeiro Script (uma janela)
+
+```
+<!doctype html>
+<!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
+<html lang="pt-br">
+    <head>
+        <title> Usando Scripts </title>
+        <meta charset="utf-8">
+        <meta name="author" content="Marcos Wagner">
+        <meta name="description" content="Usando Scripts">
+        <meta name="keywords" content="html, scripts">
+    </head>
+    <body>
+        <h1> Primeiro script</h1>
+        <script>
+            alert("Exemplo de Janela")
+        </script>
+    </body>
+```
 
 
 #### Vídeos
