@@ -297,6 +297,34 @@ Uma página da Web é um documento. Este documento pode ser exibido na janela do
 ```
 
 
+- Outro Exemplo com o DOM
+
+```
+<!doctype html>
+<html>
+    <head>
+        <title>Curso de Web Design</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Curso de Web Design</h1>
+        
+        <input type="text" id="txtNome" value="digite">
+        
+        <script>
+            
+            var $txt = document.querySelector('txtNome');
+            var nome = "Marcos Wagner ";
+            var sobrenome = "Souza Ribeiro";
+            
+            document.querySelector('#txtNome').value = nome + sobrenome;
+            document.querySelector('#txtNome').disabled = true;
+            
+        </script>
+        
+    </body>
+</html>
+```
 
 #### Vídeos
 
