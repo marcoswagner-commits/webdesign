@@ -45,7 +45,74 @@ JavaScript é uma linguagem de programação que permite implementar itens "comp
 </html>
 ```
 
+### atributo Type - com HTML5
+
 ![tipos de input](https://user-images.githubusercontent.com/81576640/225625960-be37b8af-911b-4e8b-943f-1f45a777c497.png)
+
+- Exemplo com outros tipos
+
+```
+<!doctype html>
+<!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
+<html lang="pt-br">
+    <head>
+        <title> pagina de exemplo estrutura basica </title>
+        <meta charset="utf-8">
+        <meta name="author" content="Daniel">
+        <meta name="description" content="descrição bacanuda">
+        <meta name="keywords" content="html5, tecnologia">
+    </head>
+    <body>
+        <form method='POST' action='teste'>
+	<label for="nome">Nome</label>
+	<input type='text' id='nome' name='nome' required>
+	<label for="email">Email</label>
+	<input type='email' id='email' name='email' required>
+	<br>
+	<label for="fone">Celular com DDD</label>
+	<input type="tel" id="fone" name="fone" required pattern="[0-9]{2} [0-9]{5}-[0-9]{4}" placeholder="11 99999-9999">
+	<label for="hora-desejada">Hora desejada</label>
+	<input type="time" id="hora-desejada" name="hora-desejada" required>
+	<br>
+	<label for="site">Seu site</label>
+	<input type="url" id="site" name="site" required>
+	<label for="senha">Senha</label>
+	<input type='password' id='senha' name='senha' required>
+	<br>
+	<label for="dtnasc">Data Nasc</label>
+	<input type='date' id='dtnasc' name='dtnasc'>
+	<label for="cor">Cor favorita</label>
+	<input type='color' id='cor' name='cor'>
+	<br>
+	<label for="filhos">Qtde Filhos</label>
+	<input type='number' id='filhos' name='filhos'>
+	<label for="peso">Peso</label>
+	0<input type="range" id="peso" name="peso" min="0" max="200">200
+	<br>
+	<p>Sexo:</p>
+	<input type="radio" id="sexo-m" name="sexo" value="Masculino">
+	<label for="sexo-m">Masculino</label><br>
+	<input type="radio" id="sexo-f" name="sexo" value="Feminino">
+	<label for="sexo-f">Feminio</label>
+	<br>
+	<label for="estado">Estado</label>
+	<select id="estado" name="estado">
+		<option value="SP">SP</option>
+		<option value="RJ">RJ</option>
+		<option value="PB">PB</option>
+	</select>
+	<br>
+	<label for="msg">Mensagem</label><br>
+	<textarea id="msg" name="msg" rows="4" cols="50"></textarea>
+	<br>
+	<input type="reset" value="Reset">
+	<input type="submit" value="Enviar">
+</form>
+    </body>
+</html>
+```
+
+
 
 
 ## Usando JavaScript
