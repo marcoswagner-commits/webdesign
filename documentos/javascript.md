@@ -45,11 +45,11 @@ document.write("Oi Mundo!")
 <!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
 <html lang="pt-br">
     <head>
-        <title> pagina de exemplo estrutura basica </title>
+        <title> Curso de Web Design </title>
         <meta charset="utf-8">
-        <meta name="author" content="Daniel">
-        <meta name="description" content="descrição bacanuda">
-        <meta name="keywords" content="html5, tecnologia">
+        <meta name="author" content="Marcos Wagner">
+        <meta name="description" content="Web Design">
+        <meta name="keywords" content="html, css, javascript">
     </head>
     <body>
         <h1>Formulário de Busca Google</h1>
