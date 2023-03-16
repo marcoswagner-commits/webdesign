@@ -276,6 +276,45 @@ Para fazer o uso de um script em uma página é necessário usar a tag "script".
   </html>
 ```
 
+## Sistema Léxico JavaScript
+
+* Case-sensitive; Comentários; Variáveis e Constantes; Declarações; Literais; Escape; Null; NaN; Undefined; Infinity; 
+
+```
+<!doctype html>
+<html>
+    <head>
+        <title>Curso de Web Design</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Curso de Web Design</h1>
+        
+        <script>
+            
+            // comentário simples
+            /* comentário
+               composto */
+            
+            var nome = "Marcos Wagner"; // declarações
+            var obj = new Object();
+            obj.nome = "MarcosW"; // literais
+            obj.tel = 64;
+            var frutas = ["laranja","manga"];
+            var frase = "Curso de WebDesign"; 
+            
+            var valor = null;
+            var msg = "20";
+            var semValor;
+            
+            alert(frutas[0]);
+            
+        </script>
+        
+    </body>
+</html>
+```
+
 ## DOM - Document Object Model
 O DOM (Document Object Model) é a representação de dados dos objetos que compõem a estrutura e o conteúdo de um documento na Web. O Document Object Model (DOM) é uma interface de programação para os documentos HTML e XML. Representa a página de forma que os programas possam alterar a estrutura do documento, alterar o estilo e conteúdo. O DOM representa o documento com nós e objetos, dessa forma, as linguagens de programação podem se conectar à página.
 
