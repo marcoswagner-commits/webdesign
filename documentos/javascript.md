@@ -16,7 +16,8 @@
 - [x] Primeiro script
 - [x] Associando um script a um formulário 
 - [x] Sistema Léxico do JavaScript
-- [ ] Case-sensitive; Comentários; Variáveis e Constantes; Declarações; Literais; Escape; Null; NaN; Undefined; Infinity;
+- [ ] Case-sensitive; Comentários; Variáveis e Constantes; Declarações; Literais; Escape; Null; NaN; Undefined; Infinity; 
+- [ ] DOM
 
 ## O que é JavaScript?
 JavaScript é uma linguagem de programação que permite implementar itens "complexos" em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido. É a terceira camada do bolo das tecnologias padrões da web, duas das quais (HTML e CSS) nós falamos com muito mais detalhes em outras partes da Área de Aprendizado.
@@ -136,12 +137,128 @@ Para fazer o uso de um script em uma página é necessário usar a tag "script".
             alert("Exemplo de Janela")
         </script>
     </body>
+  </html>
 ```
 
 ### Associando um script com um formulário
 Para fazer o uso de um script em uma página é necessário usar a tag "script".
 
-- Primeiro Script (uma janela)
+- Segundo Script (uma janela) - sem o vínculo com Script
+
+```
+<!doctype html>
+<!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
+<html lang="pt-br">
+    <head>
+        <title> Usando Scripts </title>
+        <meta charset="utf-8">
+        <meta name="author" content="Marcos Wagner">
+        <meta name="description" content="Usando Scripts">
+        <meta name="keywords" content="html, scripts">
+        <script>
+            alert("Exemplo de Janela")
+        </script>
+    </head>
+    <body>
+        <h1> Segundo Script</h1>
+        <form name="fJanela">
+            <label for="txtJanela">Digite uma mensagem:</label>
+            <input type="text" name="iJanela" id="txtJanela">
+            <input type="submit" value="ok">
+        </form>
+    </body>
+  </html>
+```
+
+- Segundo Script (uma janela) - com o vínculo com Script sem uso dos parâmetros
+
+```
+<!doctype html>
+<!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
+<html lang="pt-br">
+    <head>
+        <title> Usando Scripts </title>
+        <meta charset="utf-8">
+        <meta name="author" content="Marcos Wagner">
+        <meta name="description" content="Usando Scripts">
+        <meta name="keywords" content="html, scripts">
+        <script>
+            function mostraJanela() {
+              alert("Exemplo de Janela")
+            }
+            
+        </script>
+    </head>
+    <body>
+        <h1> Segundo Script</h1>
+        <form name="fJanela">
+            <label for="txtJanela">Digite uma mensagem:</label>
+            <input type="text" name="iJanela" id="txtJanela">
+            <input type="submit" value="ok" onclick="mostraJanela()">
+        </form>
+    </body>
+  </html>
+```
+
+- Segundo Script (uma janela) - com o vínculo com Script e com uso dos parâmetros (DOM)
+
+```
+<!doctype html>
+<!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
+<html lang="pt-br">
+    <head>
+        <title> Usando Scripts </title>
+        <meta charset="utf-8">
+        <meta name="author" content="Marcos Wagner">
+        <meta name="description" content="Usando Scripts">
+        <meta name="keywords" content="html, scripts">
+        <script>
+            function mostraJanela() {
+              alert(document.fJanela.iJanela.value);
+            }
+            
+        </script>
+    </head>
+    <body>
+        <h1> Segundo Script</h1>
+        <form name="fJanela">
+            <label for="txtJanela">Digite uma mensagem:</label>
+            <input type="text" name="iJanela" id="txtJanela">
+            <input type="submit" value="ok" onclick="mostraJanela()">
+        </form>
+    </body>
+  </html>
+```
+
+- Terceiro Script (uma janela) - com o vínculo com Script, uso de parâmetros (DOM) e criação de variáveis
+
+```
+<!doctype html>
+<!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
+<html lang="pt-br">
+    <head>
+        <title> Usando Scripts </title>
+        <meta charset="utf-8">
+        <meta name="author" content="Marcos Wagner">
+        <meta name="description" content="Usando Scripts">
+        <meta name="keywords" content="html, scripts">
+        <script>
+            var cliques = 0;
+            function contaCliques() {
+                cliques++;
+                document.fCliques.iCliques.value = cliques;
+            }
+            
+        </script>
+    </head>
+    <body>
+        <h1> Terceiro Script</h1>
+        <form name="fCliques">
+            <input name="iCliques" type="button" value="ok" onclick="contaCliques()">
+        </form>
+    </body>
+  </html>
+```
 
 
 
