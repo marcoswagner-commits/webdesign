@@ -45,6 +45,8 @@ JavaScript é uma linguagem de programação que permite implementar itens "comp
 </html>
 ```
 
+![tipos de input](https://user-images.githubusercontent.com/81576640/225625960-be37b8af-911b-4e8b-943f-1f45a777c497.png)
+
 
 ## Usando JavaScript
 Para fazer o uso de um script em uma página é necessário usar a tag "script".
