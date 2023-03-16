@@ -134,7 +134,7 @@ document.write("Oi Mundo!")
 ## Usando JavaScript
 Para fazer o uso de um script em uma página é necessário usar a tag "script". É preciso lembrar que existem dois tipos de script: Server Side e Client Side. Especificamente este material irá focar no Client Side usando como script o JavaScript.
 
-- Primeiro Script (uma janela)
+###- Primeiro Script (uma janela)
 
 ```
 <!doctype html>
@@ -186,7 +186,7 @@ Para fazer o uso de um script em uma página é necessário usar a tag "script".
   </html>
 ```
 
-- Segundo Script (uma janela) - com o vínculo com Script sem uso dos parâmetros
+###- Segundo Script (uma janela) - com o vínculo com Script sem uso dos parâmetros
 
 ```
 <!doctype html>
@@ -246,7 +246,7 @@ Para fazer o uso de um script em uma página é necessário usar a tag "script".
   </html>
 ```
 
-- Terceiro Script (uma janela) - com o vínculo com Script, uso de parâmetros (DOM) e criação de variáveis
+###- Terceiro Script (uma janela) - com o vínculo com Script, uso de parâmetros (DOM) e criação de variáveis
 
 ```
 <!doctype html>
