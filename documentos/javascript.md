@@ -17,7 +17,7 @@
 - [x] Associando um script a um formulário 
 - [x] Sistema Léxico do JavaScript
 - [ ] Case-sensitive; Comentários; Variáveis e Constantes; Declarações; Literais; Escape; Null; NaN; Undefined; Infinity; 
-- [ ] DOM
+- [x] DOM
 
 ## O que é JavaScript?
 JavaScript é uma linguagem de programação que permite implementar itens "complexos" em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido. É a terceira camada do bolo das tecnologias padrões da web, duas das quais (HTML e CSS) nós falamos com muito mais detalhes em outras partes da Área de Aprendizado.
@@ -116,7 +116,7 @@ JavaScript é uma linguagem de programação que permite implementar itens "comp
 
 
 ## Usando JavaScript
-Para fazer o uso de um script em uma página é necessário usar a tag "script".
+Para fazer o uso de um script em uma página é necessário usar a tag "script". É preciso lembrar que existem dois tipos de script: Server Side e Client Side. Especificamente este material irá focar no Client Side usando como script o JavaScript.
 
 - Primeiro Script (uma janela)
 
@@ -260,6 +260,41 @@ Para fazer o uso de um script em uma página é necessário usar a tag "script".
   </html>
 ```
 
+## DOM - Document Object Model
+O DOM (Document Object Model) é a representação de dados dos objetos que compõem a estrutura e o conteúdo de um documento na Web. O Document Object Model (DOM) é uma interface de programação para os documentos HTML e XML. Representa a página de forma que os programas possam alterar a estrutura do documento, alterar o estilo e conteúdo. O DOM representa o documento com nós e objetos, dessa forma, as linguagens de programação podem se conectar à página.
+
+Uma página da Web é um documento. Este documento pode ser exibido na janela do navegador ou como a fonte HTML. Mas é o mesmo documento nos dois casos. O DOM (Document Object Model) representa o mesmo documento para que possa ser manipulado. O DOM é uma representação orientada a objetos da página da web, que pode ser modificada com uma linguagem de script como JavaScript.
+
+- Exemplo no Console do Navegador
+
+```
+<!doctype html>
+<html>
+    <head>
+        <title>Curso Web Design</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Curso Web Design</h1>
+        
+        <main class="cmain" id="idmain">
+            <h2>subtitulo</h2>
+            <p id="pmain" class="pmain">É necessário compreender o conceito de DOM. </p>
+        </main> 
+        
+        <section class="csection" id="idsection">
+            <h3>subtitulo</h3>
+            <p class="paragrafos">Conceitos de Hierarquia. </p>
+            <p class="paragrafos">Conceitos de Objeto </p>
+        </section>
+        
+        <script>
+            
+        </script>
+        
+    </body>
+</html>
+```
 
 
 
