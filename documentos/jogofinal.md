@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@marcoswagner-commits 
-mdn
-/
-learning-area
-Public
-Fork your own copy of mdn/learning-area
-Code
-Issues
-15
-Pull requests
-25
-Actions
-Security
-Insights
-learning-area/javascript/introduction-to-js-1/first-splash/number-guessing-game.html
-@estelle
-estelle SEMANTICS: add lang, viewport, alt, and role
-Latest commit 87e02f8 on Aug 3, 2022
- History
- 6 contributors
-@chrisdavidmills@0x9one@wbamberg@ozgurata@estelle@bripmccann
-118 lines (100 sloc)  3.41 KB
-
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
