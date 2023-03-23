@@ -56,7 +56,14 @@ Ambos têm em comum o fato de funcionarem como servidores dedicados. Mas, nesse 
 
 <img width="500" alt="web design" src="https://user-images.githubusercontent.com/81576640/227335018-ed8067ff-331b-41a4-8a80-3642cce5de7b.png">
 
-![image](https://user-images.githubusercontent.com/81576640/227343728-243f5c2f-816a-4064-9a25-0181ed3fc65b.png)
+![image](https://user-images.githubusercontent.com/81576640/227344512-e23ddd32-ea4f-40f6-8525-1d6397e235c4.png)
+https://pages.github.com
+
+![image](https://user-images.githubusercontent.com/81576640/227345271-d938c0da-cd43-4097-854d-ac46b8d47d34.png)
+https://heroku.com
+
+![image](https://user-images.githubusercontent.com/81576640/227345160-6c84da79-2673-4473-bb24-88e5b85931c4.png)
+https://netlify.com
 
 
 
