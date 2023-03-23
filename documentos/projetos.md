@@ -13,7 +13,7 @@
 - [x] Estruturas de Hospedagem
   - [ ] Compartilhada - VPS - Dedicada - Nuvem
   - [ ] Opções de hospedagem compartilhada
-  - [ ] 
+  - [ ] Pages GitHug - Heroku - Netlify
 - [ ] Index.html - arquivo de inicialização de um site
 - [x] O que é um domínio
  - [ ] Registro.br
@@ -55,6 +55,8 @@ Ambos têm em comum o fato de funcionarem como servidores dedicados. Mas, nesse 
 - É a opção mais popular para as pessoas que constroem seu primeiro site. Quando você se inscreve para hospedagem compartilhada, a empresa de hospedagem coloca seu site em um servidor junto com centenas, senão milhares, de outros sites. Isso significa que cada cliente precisa compartilhar espaço e recursos no servidor com todos os outros clientes, incluindo tempo de CPU, memória e espaço em disco.
 
 <img width="500" alt="web design" src="https://user-images.githubusercontent.com/81576640/227335018-ed8067ff-331b-41a4-8a80-3642cce5de7b.png">
+
+![image](https://user-images.githubusercontent.com/81576640/227343728-243f5c2f-816a-4064-9a25-0181ed3fc65b.png)
 
 
 
