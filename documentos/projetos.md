@@ -64,6 +64,9 @@ Ambos têm em comum o fato de funcionarem como servidores dedicados. Mas, nesse 
 
 <img width="500" alt="web design" src="https://user-images.githubusercontent.com/81576640/227335018-ed8067ff-331b-41a4-8a80-3642cce5de7b.png">
 
+----
+
+
 <img width="500" alt="web design" src="https://user-images.githubusercontent.com/81576640/227345695-0dbbb80c-cf30-41fe-b96b-d1e79a114126.png">
 https://pages.github.com
 
