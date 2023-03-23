@@ -8,14 +8,16 @@
 
 ### Passos do Roteiro: Projetos
 - [x] O que é Hospedagem
- - [ ] Primeiramente, o que é um servidor? 
- - [ ] Tipos de Hospedagem
+  - [ ] Primeiramente, o que é um servidor? 
+  - [ ] Tipos de Hospedagem
 - [x] Estruturas de Hospedagem
- - [ ] Compartilhada - VPS - Dedicada - Nuvem
+  - [ ] Compartilhada - VPS - Dedicada - Nuvem
+  - [ ] Opções de hospedagem compartilhada
+  - [ ] 
 - [ ] Index.html - arquivo de inicialização de um site
 - [x] O que é um domínio
-- [ ] Registro.br
-- [ ] 
+ - [ ] Registro.br
+ - [ ] Ferramenta Who is - https://registro.br/tecnologia/ferramentas/whois
 
 ## Servidor de Dados
 - Em Tecnologia da Informação, um servidor é um software ou computador, com sistema de computação centralizada que fornece serviços a uma rede de computadores, chamada de cliente. Esses serviços podem ser de naturezas distintas, como por exemplo, sites, aplicações, arquivos, correio eletrônico e outros.
@@ -57,7 +59,12 @@ Ambos têm em comum o fato de funcionarem como servidores dedicados. Mas, nesse 
 
 
 ## O que é um Domínio?
-Domínio é...
+- Um domínio é um endereço único para um site. Geralmente, ele consiste no nome do site e numa extensão de domínico. Um domínio memorável vai fortalecer sua marca e ajudar seu público a encontrar o seu site. Um domínio seria o equivalente a um endereço físico para o seu site. Ele ajuda os usuários a encontrar seu site com facilidade, sem ter que memorizar seu endereço de protocolo de internet (IP). Nomes de domínio que consistem em um nome e uma extensão são parte fundamental da infraestrutura da internet.
+- O nome de domínio e a URL (Uniform Resource Locator) compartilham algumas similaridades, mas são coisas diferentes. Uma URL funciona como um endereço completo na web, capaz de direcionar os visitantes para uma página específica dentro de um site. Um domínio é apenas parte dela.
+
+Uma URL consiste em protocolo, domínio e caminho. O protocolo mostra se um domínio tem um certificado para site (o SSL que, inclusive, você pode conseguir um certificado SSL gratuito aqui na Hostinger mesmo). Note que as URLs apenas têm um caminho quando elas direcionam um visitante para uma página específica de um site.
+
+<img width="500" alt="web design" src="https://user-images.githubusercontent.com/81576640/227340996-1636de61-c454-4d3f-9219-0608204af0e9.png">
 
 
 
