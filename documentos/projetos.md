@@ -13,11 +13,19 @@
 - [x] Estruturas de Hospedagem
   - [ ] Compartilhada - VPS - Dedicada - Nuvem
   - [ ] Opções de hospedagem compartilhada
-  - [ ] Pages GitHug - Heroku - Netlify
-- [ ] Index.html - arquivo de inicialização de um site
+  - [ ] Pages GitHub - Heroku - Netlify
 - [x] O que é um domínio
  - [ ] Registro.br
  - [ ] Ferramenta Who is - https://registro.br/tecnologia/ferramentas/whois
+ - [ ] Como contratar um domínio
+ - [ ] Tipos de domínio
+ - [ ] https://www.godaddy.com/ (GoDaddy - um exemplo de contratação de domínio)
+ - [ ] Vínculo entre domínio e hospedagem
+- [x] Preparando um site para hospedagem
+  - [ ] Index.html - arquivo de inicialização de um site
+  - [ ] Estruturas de Pastas (organização do site)
+  - [ ] Hospedagem
+  - [ ] Domínio
 
 ## Servidor de Dados
 - Em Tecnologia da Informação, um servidor é um software ou computador, com sistema de computação centralizada que fornece serviços a uma rede de computadores, chamada de cliente. Esses serviços podem ser de naturezas distintas, como por exemplo, sites, aplicações, arquivos, correio eletrônico e outros.
