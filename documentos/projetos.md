@@ -8,11 +8,24 @@
 
 ### Passos do Roteiro: Projetos
 - [x] O que é hospedagem
+- [ ] Compartilhada - VPS - Dedicada - Nuvem
+- [ ] Index.html - arquivo de inicialização de um site
 - [x] O que é um domínio
+- [ ] Registro.br
+- [ ] 
 
 
 ## O que é Hospedagem?
 Hospedagem é...
+
+![image](https://user-images.githubusercontent.com/81576640/227326820-ff290cfe-68a1-49cf-a23e-9100885c8dda.png)
+Um servidor virtual privado é uma opção flexível de hospedagem. Ele permite que o usuário configure os recursos necessários de acordo com sua necessidade.
+
+![image](https://user-images.githubusercontent.com/81576640/227326464-1f8f68fb-aed5-4da0-aa71-5dcc8cdafb2b.png)
+
+Qual a diferença entre um servidor cloud e um VPS? 
+Ambos têm em comum o fato de funcionarem como servidores dedicados. Mas, nesse ponto, a principal diferença é que a hospedagem VPS tem recursos de apenas uma máquina física, enquanto o servidor cloud se baseia em várias outras máquinas.
+
 
 ## O que é um Domínio?
 Domínio é...
