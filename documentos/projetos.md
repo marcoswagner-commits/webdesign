@@ -8,6 +8,7 @@
 
 ### Passos do Roteiro: Projetos
 - [x] O que é Hospedagem
+ - [ ] Primeiramente, o que é um servidor? 
  - [ ] Tipos de Hospedagem
 - [x] Estruturas de Hospedagem
  - [ ] Compartilhada - VPS - Dedicada - Nuvem
@@ -16,6 +17,10 @@
 - [ ] Registro.br
 - [ ] 
 
+## Servidor de Dados
+- Em Tecnologia da Informação, um servidor é um software ou computador, com sistema de computação centralizada que fornece serviços a uma rede de computadores, chamada de cliente. Esses serviços podem ser de naturezas distintas, como por exemplo, sites, aplicações, arquivos, correio eletrônico e outros.
+
+<img width="500" alt="web design" src="https://user-images.githubusercontent.com/81576640/227337176-3613658f-ea86-47d3-a1a7-b3de86140365.png">
 
 ## O que é Hospedagem?
 - Hospedagem é um serviço online que permite que o conteúdo do seu site fique acessível na internet. Ao comprar um plano de hospedagem, você está alugando espaço num servidor físico para armazenar todos os seus dados e arquivos.
