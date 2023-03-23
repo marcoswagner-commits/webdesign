@@ -19,7 +19,7 @@
  - [ ] Ferramenta Who is - https://registro.br/tecnologia/ferramentas/whois
  - [ ] Como contratar um domínio
  - [ ] Tipos de domínio
- - [ ] https://www.godaddy.com/ (GoDaddy - um exemplo de contratação de domínio)
+ - [ ] (https://www.godaddy.com/) (GoDaddy - um exemplo de contratação de domínio)
  - [ ] Vínculo entre domínio e hospedagem
 - [x] Preparando um site para hospedagem
   - [ ] Index.html - arquivo de inicialização de um site
