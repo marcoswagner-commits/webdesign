@@ -15,6 +15,7 @@
   - [ ] Opções de hospedagem compartilhada
   - [ ] Pages GitHub - Heroku - Netlify
 - [x] O que é um domínio
+ - [ ] Servidor de DNS
  - [ ] Registro.br
  - [ ] Ferramenta Who is - https://registro.br/tecnologia/ferramentas/whois
  - [ ] Como contratar um domínio
@@ -88,6 +89,13 @@ Uma URL consiste em protocolo, domínio e caminho. O protocolo mostra se um dom�
 
 <img width="500" alt="web design" src="https://user-images.githubusercontent.com/81576640/227340996-1636de61-c454-4d3f-9219-0608204af0e9.png">
 
+### Servidor de DNS
+
+- De forma clara e objetiva, um servidor DNS é um computador que contém um banco de dados com endereços de Internet Protocol (IP) ou protocolo de comunicação via internet e os seus respectivos domínios associados. Vale ressaltar que existem diversos deles por aí: eles executam softwares específicos e se comunicam entre si com base em protocolos especiais.
+
+- Em termos práticos, os servidores fazem a ligação entre um domínio e um número de IP, que nada mais é do que a identificação do servidor para o qual o domínio está apontado.
+
+- Para facilitar ainda mais, um servidor DNS é o sistema que traduz o “site.com.br” para um endereço de IP, por exemplo, 151.101.129.121. Isso ocorre quando o domínio é digitado nos navegadores.
 
 
 #### Vídeos
