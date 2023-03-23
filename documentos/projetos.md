@@ -97,6 +97,16 @@ Uma URL consiste em protocolo, domínio e caminho. O protocolo mostra se um dom�
 
 - Para facilitar ainda mais, um servidor DNS é o sistema que traduz o “site.com.br” para um endereço de IP, por exemplo, 151.101.129.121. Isso ocorre quando o domínio é digitado nos navegadores.
 
+<img width="500" alt="web design" src="https://user-images.githubusercontent.com/81576640/227353809-27767443-f471-4f5f-be95-6b315425c264.png">
+
+## Preparando um site para hospedagem
+
+- O arquivo Index.html
+- Pastas e organização
+
+## Apresentação de Projetos
+
+
 
 #### Vídeos
 
